@@ -1,0 +1,12 @@
+protein,variant,position,residue,flagged,png
+gp8,evolved,290,D,False,analysis\figures\roi_structures_hp3\gp8\evolved\D290.png
+gp8,evolved,291,P,False,analysis\figures\roi_structures_hp3\gp8\evolved\P291.png
+gp8,evolved,292,N,False,analysis\figures\roi_structures_hp3\gp8\evolved\N292.png
+gp8,evolved,293,V,False,analysis\figures\roi_structures_hp3\gp8\evolved\V293.png
+gp8,wt,290,V,False,analysis\figures\roi_structures_hp3\gp8\wt\V290.png
+tail_collar_fiber,wt,444,Y,False,analysis\figures\roi_structures_hp3\tcf\wt\Y444.png
+tail_collar_fiber,wt,464,K,False,analysis\figures\roi_structures_hp3\tcf\wt\K464.png
+tail_collar_fiber,wt,465,Y,False,analysis\figures\roi_structures_hp3\tcf\wt\Y465.png
+tail_collar_fiber,evolved,444,Y,True,analysis\figures\roi_structures_hp3\tcf\evolved\Y444.png
+tail_collar_fiber,evolved,464,R,False,analysis\figures\roi_structures_hp3\tcf\evolved\R464.png
+tail_collar_fiber,evolved,465,H,False,analysis\figures\roi_structures_hp3\tcf\evolved\H465.png

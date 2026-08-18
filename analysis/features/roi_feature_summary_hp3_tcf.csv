@@ -1,0 +1,10 @@
+position,wt_residue,evolved_residue,substitution,rank,feature_id,category,label,wt_activation,evolved_activation,feature_shared
+444,Y,H,Y444H,1,10240,Compositional bias,Polar loop hotspots; S/T-rich disorder,1.261,1.248,True
+444,Y,H,Y444H,2,13260,Compositional bias,Phage tail fiber distal motifs,0.718,0.714,True
+444,Y,H,Y444H,3,15023,Structural motif,Active-site loop/turn scaffolds,0.636,0.629,True
+464,K,R,K464R,1,10240,Compositional bias,Polar loop hotspots; S/T-rich disorder,1.288,1.322,True
+464,K,R,K464R,2,13260,Compositional bias,Phage tail fiber distal motifs,0.714,0.726,True
+464,K,R,K464R,3,15023,Structural motif,Active-site loop/turn scaffolds,0.242,0.247,True
+465,Y,H,Y465H,1,10240,Compositional bias,Polar loop hotspots; S/T-rich disorder,1.309,1.336,True
+465,Y,H,Y465H,2,13260,Compositional bias,Phage tail fiber distal motifs,0.705,0.709,True
+465,Y,H,Y465H,3,15023,Structural motif,Active-site loop/turn scaffolds,0.225,0.227,True

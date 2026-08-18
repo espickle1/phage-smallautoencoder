@@ -1,0 +1,41 @@
+protein,variant,position,residue,kind,rank,feature_id,activation,label,category
+tail_collar_fiber,wt,444,Y,substitution,1,10240,1.261461686798477,Polar loop hotspots; S/T-rich disorder,Compositional bias
+tail_collar_fiber,wt,444,Y,substitution,2,13260,0.7178030987776923,Phage tail fiber distal motifs,Compositional bias
+tail_collar_fiber,wt,444,Y,substitution,3,15023,0.6358734522637892,Active-site loop/turn scaffolds,Structural motif
+tail_collar_fiber,wt,444,Y,substitution,4,9652,0.22056213114666198,Trimeric viral fiber appendages,Domain
+tail_collar_fiber,wt,444,Y,substitution,5,5835,0.20830793530420239,Folded catalytic core activation,Ligand-binding site
+tail_collar_fiber,wt,464,K,substitution,1,10240,1.2884449148558086,Polar loop hotspots; S/T-rich disorder,Compositional bias
+tail_collar_fiber,wt,464,K,substitution,2,13260,0.7136298173821526,Phage tail fiber distal motifs,Compositional bias
+tail_collar_fiber,wt,464,K,substitution,3,15023,0.2415608729641468,Active-site loop/turn scaffolds,Structural motif
+tail_collar_fiber,wt,464,K,substitution,4,13124,0.20863443553676486,C-terminal capping/recognition segment,Interaction site
+tail_collar_fiber,wt,464,K,substitution,5,9652,0.1772202223173654,Trimeric viral fiber appendages,Domain
+tail_collar_fiber,wt,465,Y,substitution,1,10240,1.308682193487062,Polar loop hotspots; S/T-rich disorder,Compositional bias
+tail_collar_fiber,wt,465,Y,substitution,2,13260,0.7052832545910731,Phage tail fiber distal motifs,Compositional bias
+tail_collar_fiber,wt,465,Y,substitution,3,15023,0.22468713632685178,Active-site loop/turn scaffolds,Structural motif
+tail_collar_fiber,wt,465,Y,substitution,4,13124,0.20454355826940784,C-terminal capping/recognition segment,Interaction site
+tail_collar_fiber,wt,465,Y,substitution,5,9652,0.15699400135640337,Trimeric viral fiber appendages,Domain
+gp8,evolved,290,D,insertion,1,15659,0.6075715043621341,Whole-chain activation with central peaks,Disorder
+gp8,evolved,290,D,insertion,2,15513,0.4279776769466795,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,290,D,insertion,3,3038,0.4277707148837183,Extended structured domain surfaces,Domain
+gp8,evolved,290,D,insertion,4,7819,0.363767698969045,Phage and viral structural proteins,Interaction site
+gp8,evolved,290,D,insertion,5,7070,0.2952539808247617,Phage tail attachment segments,Disorder
+gp8,evolved,291,P,insertion,1,15659,0.6169187187556197,Whole-chain activation with central peaks,Disorder
+gp8,evolved,291,P,insertion,2,15513,0.43363376289007316,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,291,P,insertion,3,3038,0.41175790532291634,Extended structured domain surfaces,Domain
+gp8,evolved,291,P,insertion,4,7819,0.366403704322765,Phage and viral structural proteins,Interaction site
+gp8,evolved,291,P,insertion,5,3509,0.30250474364425134,C-terminal helix-to-IDR transition,Disorder
+gp8,evolved,292,N,insertion,1,15659,0.6511920063926935,Whole-chain activation with central peaks,Disorder
+gp8,evolved,292,N,insertion,2,15513,0.4449459347768605,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,292,N,insertion,3,3038,0.40032016707931034,Extended structured domain surfaces,Domain
+gp8,evolved,292,N,insertion,4,7819,0.37167569242489373,Phage and viral structural proteins,Interaction site
+gp8,evolved,292,N,insertion,5,12804,0.3032315700415189,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,293,V,flank,1,15659,0.6480762529711414,Whole-chain activation with central peaks,Disorder
+gp8,evolved,293,V,flank,2,15513,0.43928984883346683,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,293,V,flank,3,3038,0.4163330006203588,Extended structured domain surfaces,Domain
+gp8,evolved,293,V,flank,4,7819,0.3374077358530898,Phage and viral structural proteins,Interaction site
+gp8,evolved,293,V,flank,5,3509,0.316049742239364,C-terminal helix-to-IDR transition,Disorder
+gp8,wt,290,V,flank,1,15659,0.6293817324418283,Whole-chain activation with central peaks,Disorder
+gp8,wt,290,V,flank,2,15513,0.4449459347768605,Catalytic/interface βαβ module,Structural motif
+gp8,wt,290,V,flank,3,3038,0.4209080479573083,Extended structured domain surfaces,Domain
+gp8,wt,290,V,flank,4,7819,0.3584957108669162,Phage and viral structural proteins,Interaction site
+gp8,wt,290,V,flank,5,7070,0.3087977365199911,Phage tail attachment segments,Disorder

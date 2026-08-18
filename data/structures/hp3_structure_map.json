@@ -1,0 +1,50 @@
+{
+  "_comment": "AF3 monomer predictions for the two HP3 WT/evolved protein pairs. Verified 2026-07-21: CA count in each .cif matches the corresponding FASTA length exactly (gp8 334/337, tail_collar_fiber 516/516); numbering is contiguous 1..N in every file, so sequence position == auth_seq_id, no offset.",
+  "gp8_wt": {
+    "protein": "gp8",
+    "variant": "wt",
+    "cif": "fold_yp_010228805_baseplate_wedge_gp8_wt_model_0.cif",
+    "source": "YP_010228805.1",
+    "length": 334
+  },
+  "gp8_evolved": {
+    "protein": "gp8",
+    "variant": "evolved",
+    "cif": "fold_urq01383_baseplate_wedge_gp8_hp3e_model_0.cif",
+    "source": "URQ01383.1",
+    "length": 337
+  },
+  "tcf_wt": {
+    "protein": "tail_collar_fiber",
+    "variant": "wt",
+    "cif": "fold_yp_010228801_tail_collar_fiber_wt_model_0.cif",
+    "source": "YP_010228801.1",
+    "length": 516
+  },
+  "tcf_evolved": {
+    "protein": "tail_collar_fiber",
+    "variant": "evolved",
+    "cif": "fold_urq01387_tail_collar_fiber_hp3e_model_0.cif",
+    "source": "URQ01387.1",
+    "length": 516,
+    "caveat": "Predicted before the 2026-07-21 Y444H correction to the evolved FASTA -- position 444 in this structure is Tyr (Y), not the confirmed His (H). All other positions (incl. 464 R, 465 H) match the corrected sequence. Regenerate from AF3 on the corrected sequence if position 444's sidechain geometry matters."
+  },
+  "tcf_3mer_wt": {
+    "protein": "tail_collar_fiber",
+    "variant": "wt",
+    "cif": "fold_yp_010228801_tail_collar_fiber_3mer_wt_model_0.cif",
+    "source": "YP_010228801.1",
+    "chains": ["A", "B", "C"],
+    "length_per_chain": 516,
+    "note": "tail_collar_fiber's real biological unit is this homotrimer, added 2026-07-21. All 3 chains confirmed identical (Y444/K464/Y465)."
+  },
+  "tcf_3mer_evolved": {
+    "protein": "tail_collar_fiber",
+    "variant": "evolved",
+    "cif": "fold_yp_010228801_tail_collar_fiber_3mer_hp3e_model_0.cif",
+    "source": "URQ01387.1",
+    "chains": ["A", "B", "C"],
+    "length_per_chain": 516,
+    "note": "Predicted AFTER the Y444H correction -- all 3 chains confirmed H444/R464/H465, no stale-residue caveat (unlike tcf_evolved monomer above). Interface check (src/tcf_interface_contacts.py): all 3 ROI positions sit at direct inter-chain contact (2.85-3.28 A) in both variants."
+  }
+}

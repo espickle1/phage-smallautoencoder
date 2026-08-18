@@ -1,0 +1,31 @@
+cluster,n_members,rank,feature_id,detection_rate,mean_in,mean_out,specificity_log2fc,label,category
+0,119,1,6113,0.815,0.1834,0.0,10.841,Proteolytic cleavage junctions and linkers,Post-translational modification
+0,119,2,10281,0.773,0.1565,0.0,10.613,C-terminal noncatalytic accessory modules,Disorder
+0,119,3,10364,0.63,0.1474,0.0,10.527,Secreted glycoprotein loop motifs,Structural motif
+0,119,4,6038,0.697,0.1453,0.0,10.506,β-sheet globular domain cores,Domain
+0,119,5,7192,0.681,0.1251,0.0,10.29,Chromatin/DNA recognition domains,Domain
+1,28,1,1226,0.5,0.0461,0.0,8.853,Short basic/aromatic interaction patches,Ligand-binding site
+1,28,2,16075,0.5,0.0483,0.0002,7.275,Charged β-edge cap motif,Structural motif
+1,28,3,2289,0.714,0.1039,0.001,6.613,Catalytic beta-strands and FN3,Disorder
+1,28,4,11087,0.571,0.0519,0.0008,5.801,Nucleic acid/mark recognition cores,Ligand-binding site
+1,28,5,10328,0.786,0.0836,0.0022,5.193,Hydrophobic surface β-strand/loop motifs,Sequence motif
+2,68,1,11668,0.882,0.1126,0.0,10.139,Structured beta-surface interaction patches,Interaction site
+2,68,2,10161,0.559,0.0833,0.0002,8.035,Diffuse intradomain activation,Compositional bias
+2,68,3,6849,0.647,0.0243,0.0001,6.738,Ser/Thr-rich disordered segments,Disorder
+2,68,4,4505,0.838,0.0955,0.0011,6.317,SH3 C-terminus and disordered linkers,Disorder
+2,68,5,16129,0.809,0.0244,0.0002,6.165,Short hydrophobic junction motif,Structural motif
+3,84,1,8901,0.714,0.1369,0.0,10.42,Extracellular non-catalytic motif activation,Disorder
+3,84,2,11044,0.762,0.1091,0.0,10.093,Short acidic loop/turn motif,Compositional bias
+3,84,3,11554,0.69,0.0812,0.0,9.667,Nucleic-acid binding and assembly tracks,Interaction site
+3,84,4,213,0.643,0.0847,0.0002,8.373,RGG/GP-rich low-complexity IDRs,Compositional bias
+3,84,5,2428,0.905,0.1558,0.0006,7.905,Short amphipathic interface elements,Interaction site
+4,172,1,7453,0.605,0.1987,0.0,10.957,N-terminal assembly leader,Compositional bias
+4,172,2,3749,0.837,0.1079,0.0,10.077,"ZU5 domains, bacterial mature segments",Post-translational modification
+4,172,3,5321,0.558,0.1019,0.0,9.995,N-terminal domain-start leader regions,Other
+4,172,4,14887,0.645,0.0361,0.0,8.501,Start of mature domain,Post-translational modification
+4,172,5,2191,0.942,0.1987,0.0005,8.283,N-terminal domain core detector,Domain
+5,21,1,8575,0.524,0.0455,0.0,8.833,Conserved beta-sandwich Trp anchor,Structural motif
+5,21,2,8779,0.762,0.0544,0.0002,7.476,Conserved strand-loop edge motifs,Sequence motif
+5,21,3,13803,0.857,0.0511,0.0003,7.015,Short exposed binding loops,Interaction site
+5,21,4,10731,1.0,0.2562,0.0041,5.926,Short motifs in structured/disordered regions,Disorder
+5,21,5,13024,0.952,0.0877,0.0014,5.898,SH3-like beta-loop motif,Ligand-binding site

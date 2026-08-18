@@ -1,0 +1,42 @@
+# Manually authored -- tail_collar_fiber (3mer) head domain, ROI (Y444,K464,Y465) view
+# looking straight down the trimer's 3-fold rotational axis from the distal (tip) end.
+# Camera basis computed from CA coordinates: axis = first PCA component of all CA atoms
+# (matches the local head-domain 3-fold plane normal to <0.02 rad); focus = centroid of
+# the ROI residues across all 3 chains (which sits ~0.4 A off the axis, i.e. essentially
+# on it); up = component of chain A's ROI direction perpendicular to the axis, so chain A
+# sits at 12 o'clock -- same convention reused by the tilted companion view.
+# Shaft (residues 1-389, all chains) hidden -- whole-complex context is already shown in
+# tcf_3mer_roi_clusters.png; this is a head-only close-up.
+# NOTE: switched representation from cartoon to surface, and ROI marking from black spheres
+# to a dark-gray surface patch (select :444,464,465; color sel dark gray surface). Legend
+# minimized to horizontal 2-column layout (dropped "noise" + "cluster N:" prefix), matching
+# the gp8 legend treatment; windowsize set before 2dlabels so label placement doesn't drift
+# with the GUI window's aspect ratio. See James 2026-07-23.
+set bgColor white
+lighting soft
+graphics silhouettes true
+open C:\Users\jc62\Documents\sae\analysis\structures\cluster_colored_tcf_3mer_wt.cif
+hide #1 atoms
+hide #1 cartoons
+surface #1
+hide #1:1-389 surfaces
+color byattribute bfactor #1 palette -1,#c9c7c1:0,#2a78d6:1,#eda100:2,#1baf7a:3,#e34948:4,#4a3aa7:5,#e87ba4:6,#008300 noValueColor #c9c7c1
+windowsize 800 622
+camera fieldOfView 30
+view matrix camera 0.562035,0.769837,-0.302437,-78.223263,-0.777279,0.366592,-0.511319,-130.114672,-0.282761,0.522458,0.804415,205.880346
+2dlabels create panel_title text "TCF head domain (3mer)" xpos 0.02 ypos 0.92 size 18 color black bold true
+2dlabels create legend_0 text "Cell-wall/glycan binders and linkers" xpos 0.02 ypos 0.875 size 13 color #2a78d6
+2dlabels create legend_1 text "Polyanion-contacting low-complexity segments" xpos 0.46 ypos 0.875 size 13 color #eda100
+2dlabels create legend_2 text "Secreted extracellular soluble regions" xpos 0.02 ypos 0.83 size 13 color #1baf7a
+2dlabels create legend_3 text "Short interfacial binding/catalytic hotspot" xpos 0.46 ypos 0.83 size 13 color #e34948
+2dlabels create legend_4 text "Bacterial extracellular surface segments" xpos 0.02 ypos 0.785 size 13 color #4a3aa7
+2dlabels create legend_5 text "Hydrolase core Tyr-helix motif" xpos 0.46 ypos 0.785 size 13 color #e87ba4
+2dlabels create legend_6 text "Extracellular adhesion repeat motifs" xpos 0.02 ypos 0.74 size 13 color #008300
+select #1:444,464,465
+color sel dark gray surface
+~select
+2dlabels create legend_roi text "ROI (Y444, K464, Y465) -- all chains, dark gray surface patch" xpos 0.02 ypos 0.695 size 13 color #000000
+2dlabels create legend_view text "View: down 3-fold axis, distal end" xpos 0.02 ypos 0.65 size 13 color #000000
+lighting soft
+save C:\Users\jc62\Documents\sae\analysis\figures\cluster_structures_hp3\tcf_3mer_head_axis_roi.png width 1800 height 1400 supersample 3
+exit

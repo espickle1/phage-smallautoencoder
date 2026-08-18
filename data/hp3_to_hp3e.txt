@@ -1,0 +1,7 @@
+Changes of interest:
+for URQ01387.1-
+Y444H
+K464R
+Y465H
+for URQ01383.1-
+287-290 DPN duplication

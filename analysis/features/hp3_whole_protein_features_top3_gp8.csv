@@ -1,0 +1,2014 @@
+protein,variant,position,residue,rank,feature_id,activation,label,category
+gp8,wt,1,M,1,12804,0.862044077901947,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,1,M,2,15659,0.8100953391495122,Whole-chain activation with central peaks,Disorder
+gp8,wt,1,M,3,2014,0.41196982722856845,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,wt,2,N,1,15659,1.0406609088596888,Whole-chain activation with central peaks,Disorder
+gp8,wt,2,N,2,12804,1.0266555023506663,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,2,N,3,2014,0.51109039927833,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,wt,3,D,1,12804,1.0569786568631867,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,3,D,2,15659,1.02819789517348,Whole-chain activation with central peaks,Disorder
+gp8,wt,3,D,3,2014,0.5141878944465552,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,wt,4,S,1,15659,1.0655869362321062,Whole-chain activation with central peaks,Disorder
+gp8,wt,4,S,2,12804,1.0353192038312393,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,4,S,3,2014,0.5172854212089785,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,wt,5,S,1,12804,1.0873018113757071,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,5,S,2,15659,1.0780499499183147,Whole-chain activation with central peaks,Disorder
+gp8,wt,5,S,3,2014,0.4925052702979886,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,wt,6,V,1,12804,1.1176249658882276,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,6,V,2,15659,1.0967443787052857,Whole-chain activation with central peaks,Disorder
+gp8,wt,6,V,3,2014,0.4925052702979886,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,wt,7,I,1,12804,1.1696074737674382,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,7,I,2,15659,1.1403649266070162,Whole-chain activation with central peaks,Disorder
+gp8,wt,7,I,3,2014,0.47082264614942193,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,wt,8,Y,1,12804,1.1696074737674382,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,8,Y,2,15659,1.1465964334501204,Whole-chain activation with central peaks,Disorder
+gp8,wt,8,Y,3,2014,0.46462762421877346,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,wt,9,R,1,12804,1.1696074737674382,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,9,R,2,15659,1.1465964334501204,Whole-chain activation with central peaks,Disorder
+gp8,wt,9,R,3,7453,0.4446346318802759,N-terminal assembly leader,Compositional bias
+gp8,wt,10,A,1,12804,1.1955987775396721,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,10,A,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,wt,10,A,3,11088,0.448925749344187,N-terminal assembly/attachment segment,Disorder
+gp8,wt,11,I,1,12804,1.2389175839383095,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,11,I,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,wt,11,I,3,11088,0.4612492095697249,N-terminal assembly/attachment segment,Disorder
+gp8,wt,12,V,1,12804,1.256245086564713,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,12,V,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,wt,12,V,3,11088,0.47885414803454956,N-terminal assembly/attachment segment,Disorder
+gp8,wt,13,T,1,12804,1.1955987775396721,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,13,T,2,15659,1.1154388992345987,Whole-chain activation with central peaks,Disorder
+gp8,wt,13,T,3,11088,0.44364427110490035,N-terminal assembly/attachment segment,Disorder
+gp8,wt,14,S,1,12804,1.256245086564713,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,14,S,2,15659,1.1465964334501204,Whole-chain activation with central peaks,Disorder
+gp8,wt,14,S,3,11088,0.4753331405406202,N-terminal assembly/attachment segment,Disorder
+gp8,wt,15,K,1,12804,1.221590081311906,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,15,K,2,15659,1.1403649266070162,Whole-chain activation with central peaks,Disorder
+gp8,wt,15,K,3,11088,0.47885414803454956,N-terminal assembly/attachment segment,Disorder
+gp8,wt,16,F,1,12804,1.2735725891911165,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,16,F,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,wt,16,F,3,11088,0.5070220429779475,N-terminal assembly/attachment segment,Disorder
+gp8,wt,17,R,1,12804,1.29090009181752,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,17,R,2,15659,1.1590594471363291,Whole-chain activation with central peaks,Disorder
+gp8,wt,17,R,3,11088,0.5211059739488427,N-terminal assembly/attachment segment,Disorder
+gp8,wt,18,T,1,12804,1.282236390336947,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,18,T,2,15659,1.1839854745087466,Whole-chain activation with central peaks,Disorder
+gp8,wt,18,T,3,11088,0.5035010354840181,N-terminal assembly/attachment segment,Disorder
+gp8,wt,19,E,1,12804,1.2649088877105434,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,19,E,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,wt,19,E,3,11088,0.4999800609916961,N-terminal assembly/attachment segment,Disorder
+gp8,wt,20,K,1,12804,1.29090009181752,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,20,K,2,15659,1.1902169813518508,Whole-chain activation with central peaks,Disorder
+gp8,wt,20,K,3,11088,0.5140639919625914,N-terminal assembly/attachment segment,Disorder
+gp8,wt,21,M,1,12804,1.2995638929633504,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,21,M,2,15659,1.1964484881949553,Whole-chain activation with central peaks,Disorder
+gp8,wt,21,M,3,11088,0.5492738688922406,N-terminal assembly/attachment segment,Disorder
+gp8,wt,22,L,1,12804,1.3082276941091808,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,22,L,2,15659,1.1777539676656423,Whole-chain activation with central peaks,Disorder
+gp8,wt,22,L,3,11088,0.5211059739488427,N-terminal assembly/attachment segment,Disorder
+gp8,wt,23,N,1,12804,1.29090009181752,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,23,N,2,15659,1.1715224608225379,Whole-chain activation with central peaks,Disorder
+gp8,wt,23,N,3,11088,0.5211059739488427,N-terminal assembly/attachment segment,Disorder
+gp8,wt,24,F,1,12804,1.2995638929633504,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,24,F,2,15659,1.2213744238250306,Whole-chain activation with central peaks,Disorder
+gp8,wt,24,F,3,11088,0.5492738688922406,N-terminal assembly/attachment segment,Disorder
+gp8,wt,25,Y,1,12804,1.3082276941091808,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,25,Y,2,15659,1.1839854745087466,Whole-chain activation with central peaks,Disorder
+gp8,wt,25,Y,3,11088,0.531668930427416,N-terminal assembly/attachment segment,Disorder
+gp8,wt,26,N,1,12804,1.282236390336947,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,26,N,2,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,wt,26,N,3,11088,0.49293807900544484,N-terminal assembly/attachment segment,Disorder
+gp8,wt,27,S,1,12804,1.2649088877105434,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,27,S,2,15659,1.1403649266070162,Whole-chain activation with central peaks,Disorder
+gp8,wt,27,S,3,11088,0.5070220429779475,N-terminal assembly/attachment segment,Disorder
+gp8,wt,28,I,1,12804,1.29090009181752,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,28,I,2,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,wt,28,I,3,11088,0.4964590534977668,N-terminal assembly/attachment segment,Disorder
+gp8,wt,29,G,1,12804,1.3082276941091808,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,29,G,2,15659,1.1403649266070162,Whole-chain activation with central peaks,Disorder
+gp8,wt,29,G,3,11088,0.4964590534977668,N-terminal assembly/attachment segment,Disorder
+gp8,wt,30,S,1,12804,1.2475813850841397,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,30,S,2,15659,1.0780499499183147,Whole-chain activation with central peaks,Disorder
+gp8,wt,30,S,3,11088,0.47885414803454956,N-terminal assembly/attachment segment,Disorder
+gp8,wt,31,G,1,12804,1.2735725891911165,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,31,G,2,15659,1.1092073923914945,Whole-chain activation with central peaks,Disorder
+gp8,wt,31,G,3,11088,0.4858960970191935,N-terminal assembly/attachment segment,Disorder
+gp8,wt,32,P,1,12804,1.2129262801660756,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,32,P,2,15659,1.0967443787052857,Whole-chain activation with central peaks,Disorder
+gp8,wt,32,P,3,7070,0.5580029294298839,Phage tail attachment segments,Disorder
+gp8,wt,33,D,1,12804,1.2475813850841397,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,33,D,2,15659,1.1279019129208074,Whole-chain activation with central peaks,Disorder
+gp8,wt,33,D,3,7070,0.4875753905391466,Phage tail attachment segments,Disorder
+gp8,wt,34,K,1,12804,1.1955987775396721,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,34,K,2,15659,1.1092073923914945,Whole-chain activation with central peaks,Disorder
+gp8,wt,34,K,3,7070,0.539041676094335,Phage tail attachment segments,Disorder
+gp8,wt,35,N,1,12804,1.230253782792479,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,35,N,2,15659,1.1216704060777032,Whole-chain activation with central peaks,Disorder
+gp8,wt,35,N,3,7070,0.5742554455397036,Phage tail attachment segments,Disorder
+gp8,wt,36,T,1,12804,1.2129262801660756,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,36,T,2,15659,1.1715224608225379,Whole-chain activation with central peaks,Disorder
+gp8,wt,36,T,3,7070,0.5688379710882451,Phage tail attachment segments,Disorder
+gp8,wt,37,I,1,12804,1.2475813850841397,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,37,I,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,wt,37,I,3,7070,0.5796729663688842,Phage tail attachment segments,Disorder
+gp8,wt,38,F,1,12804,1.2389175839383095,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,38,F,2,15659,1.2151430087242683,Whole-chain activation with central peaks,Disorder
+gp8,wt,38,F,3,7070,0.6094692149850723,Phage tail attachment segments,Disorder
+gp8,wt,39,I,1,12804,1.100297463261824,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,39,I,2,15659,1.0344294020165845,Whole-chain activation with central peaks,Disorder
+gp8,wt,39,I,3,7070,0.5877992244237941,Phage tail attachment segments,Disorder
+gp8,wt,40,T,1,12804,1.2475813850841397,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,40,T,2,15659,1.1902169813518508,Whole-chain activation with central peaks,Disorder
+gp8,wt,40,T,3,7070,0.6175954730399822,Phage tail attachment segments,Disorder
+gp8,wt,41,F,1,12804,1.2129262801660756,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,41,F,2,15659,1.134133419763912,Whole-chain activation with central peaks,Disorder
+gp8,wt,41,F,3,7070,0.6473917680338922,Phage tail attachment segments,Disorder
+gp8,wt,42,G,1,12804,1.1955987775396721,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,42,G,2,15659,1.1590594471363291,Whole-chain activation with central peaks,Disorder
+gp8,wt,42,G,3,7070,0.6175954730399822,Phage tail attachment segments,Disorder
+gp8,wt,43,R,1,12804,1.1782712749132684,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,43,R,2,15659,1.1777539676656423,Whole-chain activation with central peaks,Disorder
+gp8,wt,43,R,3,7070,0.6365567727532531,Phage tail attachment segments,Disorder
+gp8,wt,44,S,1,12804,1.1869350760590989,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,44,S,2,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,wt,44,S,3,7070,0.6365567727532531,Phage tail attachment segments,Disorder
+gp8,wt,45,E,1,15659,1.208911501881164,Whole-chain activation with central peaks,Disorder
+gp8,wt,45,E,2,12804,1.2042625786855023,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,45,E,3,7070,0.6528092888630728,Phage tail attachment segments,Disorder
+gp8,wt,46,P,1,12804,1.221590081311906,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,46,P,2,15659,1.1715224608225379,Whole-chain activation with central peaks,Disorder
+gp8,wt,46,P,3,7070,0.6501005052596215,Phage tail attachment segments,Disorder
+gp8,wt,47,W,1,12804,1.230253782792479,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,47,W,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,wt,47,W,3,7070,0.6473917680338922,Phage tail attachment segments,Disorder
+gp8,wt,48,S,1,12804,1.2129262801660756,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,48,S,2,15659,1.1403649266070162,Whole-chain activation with central peaks,Disorder
+gp8,wt,48,S,3,7070,0.6284305146983432,Phage tail attachment segments,Disorder
+gp8,wt,49,S,1,12804,1.160943772286865,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,49,S,2,15659,1.0967443787052857,Whole-chain activation with central peaks,Disorder
+gp8,wt,49,S,3,7070,0.6473917680338922,Phage tail attachment segments,Disorder
+gp8,wt,50,N,1,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,wt,50,N,2,12804,1.1522799711410348,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,50,N,3,7070,0.6798968002535316,Phage tail attachment segments,Disorder
+gp8,wt,51,E,1,12804,1.134952468514631,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,51,E,2,15659,1.1154388992345987,Whole-chain activation with central peaks,Disorder
+gp8,wt,51,E,3,7070,0.6826055374792609,Phage tail attachment segments,Disorder
+gp8,wt,52,N,1,15659,1.1403649266070162,Whole-chain activation with central peaks,Disorder
+gp8,wt,52,N,2,12804,1.1262886673688008,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,52,N,3,7070,0.655518026088802,Phage tail attachment segments,Disorder
+gp8,wt,53,E,1,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,wt,53,E,2,12804,1.160943772286865,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,53,E,3,7070,0.704275574418261,Phage tail attachment segments,Disorder
+gp8,wt,54,V,1,12804,1.160943772286865,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,54,V,2,15659,1.1590594471363291,Whole-chain activation with central peaks,Disorder
+gp8,wt,54,V,3,7070,0.655518026088802,Phage tail attachment segments,Disorder
+gp8,wt,55,G,1,12804,1.221590081311906,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,55,G,2,15659,1.1964484881949553,Whole-chain activation with central peaks,Disorder
+gp8,wt,55,G,3,7070,0.6826055374792609,Phage tail attachment segments,Disorder
+gp8,wt,56,F,1,12804,1.1869350760590989,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,56,F,2,15659,1.1777539676656423,Whole-chain activation with central peaks,Disorder
+gp8,wt,56,F,3,7070,0.6528092888630728,Phage tail attachment segments,Disorder
+gp8,wt,57,A,1,12804,1.1696074737674382,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,57,A,2,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,wt,57,A,3,7070,0.6636442841437119,Phage tail attachment segments,Disorder
+gp8,wt,58,P,1,15659,1.1590594471363291,Whole-chain activation with central peaks,Disorder
+gp8,wt,58,P,2,12804,1.134952468514631,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,58,P,3,7070,0.7205280905280808,Phage tail attachment segments,Disorder
+gp8,wt,59,P,1,15659,1.1902169813518508,Whole-chain activation with central peaks,Disorder
+gp8,wt,59,P,2,12804,1.1782712749132684,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,59,P,3,7070,0.7151105696989003,Phage tail attachment segments,Disorder
+gp8,wt,60,Y,1,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,wt,60,Y,2,12804,1.1436162696604615,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,60,Y,3,7070,0.6934405327599,Phage tail attachment segments,Disorder
+gp8,wt,61,P,1,15659,1.1902169813518508,Whole-chain activation with central peaks,Disorder
+gp8,wt,61,P,2,12804,1.1869350760590989,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,61,P,3,7070,0.7259455649795394,Phage tail attachment segments,Disorder
+gp8,wt,62,T,1,15659,1.1777539676656423,Whole-chain activation with central peaks,Disorder
+gp8,wt,62,T,2,12804,1.1522799711410348,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,62,T,3,7070,0.7151105696989003,Phage tail attachment segments,Disorder
+gp8,wt,63,D,1,15659,1.1964484881949553,Whole-chain activation with central peaks,Disorder
+gp8,wt,63,D,2,12804,1.1782712749132684,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,63,D,3,7070,0.7259455649795394,Phage tail attachment segments,Disorder
+gp8,wt,64,S,1,15659,1.2151430087242683,Whole-chain activation with central peaks,Disorder
+gp8,wt,64,S,2,12804,1.1955987775396721,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,64,S,3,7070,0.7530331227477202,Phage tail attachment segments,Disorder
+gp8,wt,65,V,1,15659,1.1902169813518508,Whole-chain activation with central peaks,Disorder
+gp8,wt,65,V,2,12804,1.1782712749132684,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,65,V,3,7070,0.7692855924798179,Phage tail attachment segments,Disorder
+gp8,wt,66,L,1,15659,1.1839854745087466,Whole-chain activation with central peaks,Disorder
+gp8,wt,66,L,2,12804,1.160943772286865,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,66,L,3,7070,0.7476156019185396,Phage tail attachment segments,Disorder
+gp8,wt,67,G,1,15659,1.1839854745087466,Whole-chain activation with central peaks,Disorder
+gp8,wt,67,G,2,12804,1.1696074737674382,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,67,G,3,7070,0.7747031133089984,Phage tail attachment segments,Disorder
+gp8,wt,68,V,1,15659,1.1590594471363291,Whole-chain activation with central peaks,Disorder
+gp8,wt,68,V,2,12804,1.1436162696604615,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,68,V,3,7070,0.7692855924798179,Phage tail attachment segments,Disorder
+gp8,wt,69,T,1,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,wt,69,T,2,12804,1.1176249658882276,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,69,T,3,7070,0.7747031133089984,Phage tail attachment segments,Disorder
+gp8,wt,70,D,1,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,wt,70,D,2,12804,1.1436162696604615,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,70,D,3,7070,0.7476156019185396,Phage tail attachment segments,Disorder
+gp8,wt,71,M,1,15659,1.134133419763912,Whole-chain activation with central peaks,Disorder
+gp8,wt,71,M,2,12804,1.1262886673688008,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,71,M,3,7070,0.7638681180283593,Phage tail attachment segments,Disorder
+gp8,wt,72,W,1,15659,1.0842814567614192,Whole-chain activation with central peaks,Disorder
+gp8,wt,72,W,2,12804,1.0743061594895902,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,72,W,3,7070,0.8126256199800964,Phage tail attachment segments,Disorder
+gp8,wt,73,T,1,12804,1.0786380102298767,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,73,T,2,15659,1.0406609088596888,Whole-chain activation with central peaks,Disorder
+gp8,wt,73,T,3,7070,0.7096930488697197,Phage tail attachment segments,Disorder
+gp8,wt,74,H,1,15659,1.1154388992345987,Whole-chain activation with central peaks,Disorder
+gp8,wt,74,H,2,12804,1.1089611647423974,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,74,H,3,7070,0.7692855924798179,Phage tail attachment segments,Disorder
+gp8,wt,75,M,1,15659,1.0905128718621815,Whole-chain activation with central peaks,Disorder
+gp8,wt,75,M,2,12804,1.0873018113757071,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,75,M,3,7070,0.7963731038702767,Phage tail attachment segments,Disorder
+gp8,wt,76,M,1,12804,1.0743061594895902,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,76,M,2,15659,1.0406609088596888,Whole-chain activation with central peaks,Disorder
+gp8,wt,76,M,3,7070,0.7096930488697197,Phage tail attachment segments,Disorder
+gp8,wt,77,G,1,15659,1.0219663883303758,Whole-chain activation with central peaks,Disorder
+gp8,wt,77,G,2,12804,1.0179917012048358,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,77,G,3,7070,0.7151105696989003,Phage tail attachment segments,Disorder
+gp8,wt,78,T,1,15659,1.0344294020165845,Whole-chain activation with central peaks,Disorder
+gp8,wt,78,T,2,12804,1.0049960493187189,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,78,T,3,7070,0.6907317955341707,Phage tail attachment segments,Disorder
+gp8,wt,79,V,1,15659,0.8537157953089005,Whole-chain activation with central peaks,Disorder
+gp8,wt,79,V,2,12804,0.8403846248699997,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,79,V,3,7070,0.7205280905280808,Phage tail attachment segments,Disorder
+gp8,wt,80,K,1,12804,0.9530135414395083,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,80,K,2,15659,0.934725384269257,Whole-chain activation with central peaks,Disorder
+gp8,wt,80,K,3,7070,0.6907317955341707,Phage tail attachment segments,Disorder
+gp8,wt,81,V,1,15659,0.9409568911123614,Whole-chain activation with central peaks,Disorder
+gp8,wt,81,V,2,12804,0.9226903869269879,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,81,V,3,7070,0.6988580535890806,Phage tail attachment segments,Disorder
+gp8,wt,82,L,1,12804,0.8490484260158301,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,82,L,2,15659,0.8412527816226918,Whole-chain activation with central peaks,Disorder
+gp8,wt,82,L,3,7070,0.7205280905280808,Phage tail attachment segments,Disorder
+gp8,wt,83,P,1,12804,0.862044077901947,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,83,P,2,15659,0.8599473021520049,Whole-chain activation with central peaks,Disorder
+gp8,wt,83,P,3,7070,0.7096930488697197,Phage tail attachment segments,Disorder
+gp8,wt,84,S,1,12804,0.7927339677310757,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,84,S,2,15659,0.7727062980908861,Whole-chain activation with central peaks,Disorder
+gp8,wt,84,S,3,7070,0.6528092888630728,Phage tail attachment segments,Disorder
+gp8,wt,85,M,1,15659,0.6605392666573501,Whole-chain activation with central peaks,Disorder
+gp8,wt,85,M,2,12804,0.6541138470545904,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,85,M,3,9903,0.6268263086651733,Extended assembly interface regions,Interaction site
+gp8,wt,86,L,1,9903,0.5859463043713989,Extended assembly interface regions,Interaction site
+gp8,wt,86,L,2,7070,0.5607117130333352,Phage tail attachment segments,Disorder
+gp8,wt,86,L,3,12804,0.5393190051149384,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,87,D,1,12804,0.6887688523073974,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,87,D,2,15659,0.6761179878939398,Whole-chain activation with central peaks,Disorder
+gp8,wt,87,D,3,9903,0.5950307679996657,Extended assembly interface regions,Interaction site
+gp8,wt,88,A,1,15988,0.5582174496914067,Structural small-polar patches,Domain
+gp8,wt,88,A,2,9903,0.5337107820673606,Extended assembly interface regions,Interaction site
+gp8,wt,88,A,3,12804,0.4938342733461577,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,89,V,1,15988,0.6755239785846668,Structural small-polar patches,Domain
+gp8,wt,89,V,2,9903,0.5087285686146964,Extended assembly interface regions,Interaction site
+gp8,wt,89,V,3,7819,0.4059436489966977,Phage and viral structural proteins,Interaction site
+gp8,wt,90,I,1,15988,0.6391185228941926,Structural small-polar patches,Domain
+gp8,wt,90,I,2,9903,0.48828858697616573,Extended assembly interface regions,Interaction site
+gp8,wt,90,I,3,7819,0.4191236757652979,Phage and viral structural proteins,Interaction site
+gp8,wt,91,P,1,15988,0.6472086351691583,Structural small-polar patches,Domain
+gp8,wt,91,P,2,9903,0.5337107820673606,Extended assembly interface regions,Interaction site
+gp8,wt,91,P,3,7819,0.4059436489966977,Phage and viral structural proteins,Interaction site
+gp8,wt,92,R,1,15988,0.671478922447184,Structural small-polar patches,Domain
+gp8,wt,92,R,2,9903,0.4633063735235017,Extended assembly interface regions,Interaction site
+gp8,wt,92,R,3,7819,0.43230365732327547,Phage and viral structural proteins,Interaction site
+gp8,wt,93,R,1,15988,0.6917042031345983,Structural small-polar patches,Domain
+gp8,wt,93,R,2,3390,0.44020423577688805,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,93,R,3,7819,0.41648767041157786,Phage and viral structural proteins,Interaction site
+gp8,wt,94,D,1,15988,0.699794315409564,Structural small-polar patches,Domain
+gp8,wt,94,D,2,9903,0.431510832857994,Extended assembly interface regions,Interaction site
+gp8,wt,94,D,3,3390,0.41727690054417677,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,95,W,1,15988,0.703839371547047,Structural small-polar patches,Domain
+gp8,wt,95,W,2,3390,0.47230244139301447,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,95,W,3,5755,0.4061611038828555,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,96,G,1,15988,0.7523799956499698,Structural small-polar patches,Domain
+gp8,wt,96,G,2,3390,0.44020423577688805,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,96,G,3,5755,0.4061611038828555,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,97,D,1,15988,0.6795690347221498,Structural small-polar patches,Domain
+gp8,wt,97,D,2,3390,0.45625333858495126,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,97,D,3,5755,0.43922073371398435,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,98,T,1,15988,0.6633888101722183,Structural small-polar patches,Domain
+gp8,wt,98,T,2,5755,0.43685933506173785,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,98,T,3,3390,0.42186240399624436,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,99,R,1,15988,0.6755239785846668,Structural small-polar patches,Domain
+gp8,wt,99,R,2,3390,0.4631315255026926,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,99,R,3,5755,0.4415821323662309,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,100,Y,1,15988,0.6552987474441241,Structural small-polar patches,Domain
+gp8,wt,100,Y,2,3390,0.5044006925160476,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,100,Y,3,5755,0.48881015411083906,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,101,P,1,15988,0.6108031299318125,Structural small-polar patches,Domain
+gp8,wt,101,P,2,5755,0.5100627906807352,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,101,P,3,3390,0.4539606096123708,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,102,D,1,15988,0.6512536913066412,Structural small-polar patches,Domain
+gp8,wt,102,D,2,5755,0.4817259581540994,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,102,D,3,14441,0.44800830775487355,Solvent exposed assembly segments,Domain
+gp8,wt,103,P,1,15988,0.5865327931069153,Structural small-polar patches,Domain
+gp8,wt,103,P,2,5755,0.49589435006757865,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,103,P,3,14441,0.43721290161568016,Solvent exposed assembly segments,Domain
+gp8,wt,104,Y,1,15988,0.5379921690039924,Structural small-polar patches,Domain
+gp8,wt,104,Y,2,5755,0.49589435006757865,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,104,Y,3,14441,0.4507071209840017,Solvent exposed assembly segments,Domain
+gp8,wt,105,T,1,14441,0.510081727063998,Solvent exposed assembly segments,Domain
+gp8,wt,105,T,2,5755,0.49589435006757865,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,105,T,3,15988,0.41664053442637783,Structural small-polar patches,Domain
+gp8,wt,106,F,1,5755,0.5620136097298365,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,106,F,2,14441,0.4695990689590334,Solvent exposed assembly segments,Domain
+gp8,wt,106,F,3,3390,0.40581325568127447,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,107,R,1,5755,0.5313153785509541,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,107,R,2,14441,0.5181782688998363,Solvent exposed assembly segments,Domain
+gp8,wt,107,R,3,15988,0.38225758203120924,Structural small-polar patches,Domain
+gp8,wt,108,I,1,14441,0.4992863719990316,Solvent exposed assembly segments,Domain
+gp8,wt,108,I,2,5755,0.4770031608496063,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,108,I,3,3390,0.40352052670869404,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,109,N,1,10592,0.4752787264796779,Edge coil-to-beta transitions,Structural motif
+gp8,wt,109,N,2,14441,0.39673024351071556,Solvent exposed assembly segments,Domain
+gp8,wt,109,N,3,9634,0.35022127126916686,Viral capsid structural proteins,Disorder
+gp8,wt,110,D,1,14441,0.5694563331439944,Solvent exposed assembly segments,Domain
+gp8,wt,110,D,2,5755,0.4982557487198252,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,110,D,3,10592,0.4342052597415852,Edge coil-to-beta transitions,Structural motif
+gp8,wt,111,I,1,14441,0.5748540106764776,Solvent exposed assembly segments,Domain
+gp8,wt,111,I,2,5755,0.4557505242797102,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,111,I,3,10592,0.4166023574069269,Edge coil-to-beta transitions,Structural motif
+gp8,wt,112,V,1,14441,0.5559621137756728,Solvent exposed assembly segments,Domain
+gp8,wt,112,V,2,5755,0.4014383065783624,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,112,V,3,3390,0.34620227964072925,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,113,V,1,14441,0.5532632494723176,Solvent exposed assembly segments,Domain
+gp8,wt,113,V,2,5755,0.5147855879852283,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,113,V,3,6332,0.4090294450768186,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,114,C,1,14441,0.49118983016319323,Solvent exposed assembly segments,Domain
+gp8,wt,114,C,2,5755,0.4581119229319567,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,114,C,3,6332,0.399113615103226,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,115,N,1,14441,0.5046840495315148,Solvent exposed assembly segments,Domain
+gp8,wt,115,N,2,5755,0.4911715527630856,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,115,N,3,6332,0.3916766970397152,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,116,S,1,5755,0.5171469866374748,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,116,S,2,14441,0.48579215263071,Solvent exposed assembly segments,Domain
+gp8,wt,116,S,3,6332,0.37184496871755546,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,117,A,1,14441,0.4722978821881615,Solvent exposed assembly segments,Domain
+gp8,wt,117,A,2,5755,0.47228036354511327,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,117,A,3,6332,0.4338191111774329,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,118,P,1,5755,0.4817259581540994,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,118,P,2,14441,0.47499674649151663,Solvent exposed assembly segments,Domain
+gp8,wt,118,P,3,6332,0.4015925725966242,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,119,Y,1,5755,0.5620136097298365,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,119,Y,2,14441,0.4992863719990316,Solvent exposed assembly segments,Domain
+gp8,wt,119,Y,3,6332,0.46604569534155793,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,120,N,1,14441,0.48309328832735493,Solvent exposed assembly segments,Domain
+gp8,wt,120,N,2,5755,0.45338912562746364,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,120,N,3,6332,0.40407153009002234,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,121,A,1,5755,0.5100627906807352,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,121,A,2,14441,0.4669002046556783,Solvent exposed assembly segments,Domain
+gp8,wt,121,A,3,6332,0.3817608214828062,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,122,T,1,14441,0.4776956107948717,Solvent exposed assembly segments,Domain
+gp8,wt,122,T,2,5755,0.42269089444858127,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,122,T,3,6332,0.3470553026169412,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,123,E,1,14441,0.45340598528735676,Solvent exposed assembly segments,Domain
+gp8,wt,123,E,2,5755,0.40852250253510203,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,123,E,3,6332,0.3916766970397152,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,124,S,1,5755,0.4911715527630856,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,124,S,2,14441,0.4722978821881615,Solvent exposed assembly segments,Domain
+gp8,wt,124,S,3,3390,0.3714223210925676,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,125,G,1,5755,0.6092416314744445,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,125,G,2,14441,0.5775528749798327,Solvent exposed assembly segments,Domain
+gp8,wt,125,G,3,3390,0.378300508010309,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,126,A,1,5755,0.5809048476474861,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,126,A,2,14441,0.5748540106764776,Solvent exposed assembly segments,Domain
+gp8,wt,126,A,3,3390,0.38517869492805035,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,127,G,1,5755,0.65646970191873,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,127,G,2,14441,0.5154794045964812,Solvent exposed assembly segments,Domain
+gp8,wt,127,G,3,6332,0.42390328120384024,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,128,W,1,5755,0.6611924992232231,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,128,W,2,14441,0.6072401780198308,Solvent exposed assembly segments,Domain
+gp8,wt,128,W,3,6332,0.488356403948774,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,129,L,1,5755,0.6328556666965873,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,129,L,2,14441,0.5694563331439944,Solvent exposed assembly segments,Domain
+gp8,wt,129,L,3,6332,0.478440528391865,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,130,V,1,5755,0.6092416314744445,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,130,V,2,14441,0.5235759464323195,Solvent exposed assembly segments,Domain
+gp8,wt,130,V,3,6332,0.3916766970397152,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,131,Y,1,5755,0.5667364070343295,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,131,Y,2,6332,0.3768029064960099,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,131,Y,3,14441,0.3535487211023959,Solvent exposed assembly segments,Domain
+gp8,wt,132,R,1,14441,0.6558193779606337,Solvent exposed assembly segments,Domain
+gp8,wt,132,R,2,5755,0.5690978056865761,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,132,R,3,6332,0.38919773954631703,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,wt,133,C,1,5127,0.31455520363122186,Nucleic acid beta-strand hotspots,Ligand-binding site
+gp8,wt,133,C,2,14441,0.2739327859699172,Solvent exposed assembly segments,Domain
+gp8,wt,133,C,3,4021,0.25744342815720833,Extracellular glycan recognition modules,Domain
+gp8,wt,134,L,1,14441,0.5964447718806374,Solvent exposed assembly segments,Domain
+gp8,wt,134,L,2,5755,0.5549294137730968,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,134,L,3,3390,0.41956962951675725,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,135,D,1,5755,0.576182050342993,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,135,D,2,14441,0.5181782688998363,Solvent exposed assembly segments,Domain
+gp8,wt,135,D,3,3390,0.5021079635434671,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,136,V,1,5755,0.5502066164686037,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,136,V,2,3390,0.5296207112144325,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,136,V,3,14441,0.5154794045964812,Solvent exposed assembly segments,Domain
+gp8,wt,137,P,1,3390,0.5502552719676567,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,137,P,2,5755,0.5478452178163572,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,137,P,3,14441,0.5046840495315148,Solvent exposed assembly segments,Domain
+gp8,wt,138,D,1,3390,0.6419644763777818,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,138,D,2,5755,0.5478452178163572,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,138,D,3,14441,0.5424678944073512,Solvent exposed assembly segments,Domain
+gp8,wt,139,T,1,3390,0.5961098969261726,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,139,T,2,5755,0.4982557487198252,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,139,T,3,14441,0.49388864339232136,Solvent exposed assembly segments,Domain
+gp8,wt,140,G,1,3390,0.5433770850499153,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,140,G,2,5755,0.5006171473720717,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,140,G,3,14441,0.45880366281984,Solvent exposed assembly segments,Domain
+gp8,wt,141,M,1,14441,0.43451408838655203,Solvent exposed assembly segments,Domain
+gp8,wt,141,M,2,5755,0.40852250253510203,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,141,M,3,3390,0.33244590580524647,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,142,C,1,12486,0.4293291159160954,Extracellular disulfide-bonded repeats,Domain
+gp8,wt,142,C,2,14441,0.3724406435403141,Solvent exposed assembly segments,Domain
+gp8,wt,142,C,3,5755,0.33531904691610465,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,143,S,1,14441,0.4992863719990316,Solvent exposed assembly segments,Domain
+gp8,wt,143,S,2,5755,0.3589330577884087,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,143,S,3,12275,0.3355459617470912,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,144,I,1,14441,0.4669002046556783,Solvent exposed assembly segments,Domain
+gp8,wt,144,I,2,5755,0.39435408627178414,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,144,I,3,3390,0.2877376680864742,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,145,A,1,14441,0.4561048495907119,Solvent exposed assembly segments,Domain
+gp8,wt,145,A,2,5755,0.36601727809498696,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,145,A,3,12856,0.2820209123205674,EGF C2–C3 loop motif,Structural motif
+gp8,wt,146,S,1,14441,0.48849096585983814,Solvent exposed assembly segments,Domain
+gp8,wt,146,S,2,5755,0.4132452998395951,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,146,S,3,12856,0.367853346215431,EGF C2–C3 loop motif,Structural motif
+gp8,wt,147,L,1,14441,0.4561048495907119,Solvent exposed assembly segments,Domain
+gp8,wt,147,L,2,5755,0.43922073371398435,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,147,L,3,12275,0.34376340872762773,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,148,T,1,14441,0.4722978821881615,Solvent exposed assembly segments,Domain
+gp8,wt,148,T,2,5755,0.3778242713562197,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,148,T,3,12275,0.34650258482331414,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,149,N,1,14441,0.5073829138348699,Solvent exposed assembly segments,Domain
+gp8,wt,149,N,2,5755,0.4203294957963347,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,149,N,3,12275,0.3560895995250632,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,150,K,1,14441,0.4669002046556783,Solvent exposed assembly segments,Domain
+gp8,wt,150,K,2,5755,0.34476466587492943,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,150,K,3,12275,0.31774150006480567,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,151,D,1,14441,0.44261063022239033,Solvent exposed assembly segments,Domain
+gp8,wt,151,D,2,5755,0.37074007539948006,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,151,D,3,12275,0.31500234429574997,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,152,E,1,14441,0.4992863719990316,Solvent exposed assembly segments,Domain
+gp8,wt,152,E,2,12275,0.4163509044845052,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,152,E,3,5755,0.3636558794427404,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,153,C,1,4021,0.5505329127673555,Extracellular glycan recognition modules,Domain
+gp8,wt,153,C,2,14441,0.30496949562447945,Solvent exposed assembly segments,Domain
+gp8,wt,153,C,3,12467,0.19084721011676373,Subunit assembly interface belts,Interaction site
+gp8,wt,154,L,1,14441,0.49388864339232136,Solvent exposed assembly segments,Domain
+gp8,wt,154,L,2,5755,0.4061611038828555,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,154,L,3,12275,0.38622025200478416,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,155,K,1,14441,0.44800830775487355,Solvent exposed assembly segments,Domain
+gp8,wt,155,K,2,5755,0.3990768835762772,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,155,K,3,12275,0.35882873496748824,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,156,L,1,12275,0.41361176904208014,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,156,L,2,14441,0.3778383210727973,Solvent exposed assembly segments,Domain
+gp8,wt,156,L,3,5755,0.347126064527176,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,157,G,1,14441,0.4102244628790371,Solvent exposed assembly segments,Domain
+gp8,wt,157,G,2,12275,0.4081334575039687,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,157,G,3,5755,0.3872698903150445,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,158,G,1,12275,0.4793513855396336,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,158,G,2,14441,0.3778383210727973,Solvent exposed assembly segments,Domain
+gp8,wt,158,G,3,5755,0.32351202930503326,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,159,K,1,12275,0.4273075275607281,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,159,K,2,14441,0.421019843481117,Solvent exposed assembly segments,Domain
+gp8,wt,159,K,3,4025,0.32268032397980184,Extracellular Cys–Trp disulfide-loop motif,Sequence motif
+gp8,wt,160,W,1,4025,0.7390420109379716,Extracellular Cys–Trp disulfide-loop motif,Sequence motif
+gp8,wt,160,W,2,12275,0.5806999660550195,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,160,W,3,14441,0.43451408838655203,Solvent exposed assembly segments,Domain
+gp8,wt,161,T,1,12275,0.512221214115041,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,wt,161,T,2,14441,0.4722978821881615,Solvent exposed assembly segments,Domain
+gp8,wt,161,T,3,4025,0.37212328900839337,Extracellular Cys–Trp disulfide-loop motif,Sequence motif
+gp8,wt,162,P,1,3390,0.495229731118819,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,162,P,2,14441,0.48849096585983814,Solvent exposed assembly segments,Domain
+gp8,wt,162,P,3,14938,0.44585362686573693,Small/polar beta-strand repeats,Domain
+gp8,wt,163,S,1,3390,0.5846462520632703,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,163,S,2,14938,0.4610779192538882,Small/polar beta-strand repeats,Domain
+gp8,wt,163,S,3,14441,0.45340598528735676,Solvent exposed assembly segments,Domain
+gp8,wt,164,V,1,3390,0.7245027648975849,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,164,V,2,14938,0.5067507452777706,Small/polar beta-strand repeats,Domain
+gp8,wt,164,V,3,5755,0.43213653775724475,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,165,R,1,3390,0.7153318490072631,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,165,R,2,14938,0.5480737588648752,Small/polar beta-strand repeats,Domain
+gp8,wt,165,R,3,5755,0.4297751391049982,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,166,S,1,3390,0.7611864739657789,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,166,S,2,14938,0.5741724800638285,Small/polar beta-strand repeats,Domain
+gp8,wt,166,S,3,5755,0.4628347202364498,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,167,M,1,3390,0.8162119693077099,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,167,M,2,14938,0.6089708261363376,Small/polar beta-strand repeats,Domain
+gp8,wt,167,M,3,5755,0.47936455950185286,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,168,T,1,3390,0.7657719319109398,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,168,T,2,14938,0.565472906330844,Small/polar beta-strand repeats,Domain
+gp8,wt,168,T,3,5755,0.43685933506173785,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,169,P,1,3390,0.8207974272528709,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,169,P,2,14938,0.6437691722088467,Small/polar beta-strand repeats,Domain
+gp8,wt,169,P,3,5755,0.4628347202364498,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,170,P,1,3390,0.8712375556634543,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,170,P,2,14938,0.6307197860390843,Small/polar beta-strand repeats,Domain
+gp8,wt,170,P,3,5755,0.48881015411083906,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,171,E,1,3390,0.756601016020618,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,171,E,2,14938,0.6220202123060998,Small/polar beta-strand repeats,Domain
+gp8,wt,171,E,3,10881,0.43586205073084755,Bacterial extracellular surface segments,Disorder
+gp8,wt,172,G,1,3390,0.8391392590335145,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,172,G,2,14938,0.6568185583786089,Small/polar beta-strand repeats,Domain
+gp8,wt,172,G,3,5755,0.47228036354511327,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,173,R,1,3390,0.8437248079924887,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,173,R,2,14938,0.6263700247428777,Small/polar beta-strand repeats,Domain
+gp8,wt,173,R,3,5755,0.4651961675883736,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,174,G,1,3390,0.8574811818279715,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,174,G,2,14938,0.6176703998693219,Small/polar beta-strand repeats,Domain
+gp8,wt,174,G,3,5755,0.4628347202364498,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,175,D,1,3390,0.8666520977182933,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,175,D,2,14938,0.6394193597720688,Small/polar beta-strand repeats,Domain
+gp8,wt,175,D,3,5755,0.4415821323662309,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,176,A,1,3390,0.8483102659376497,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,176,A,2,14938,0.6176703998693219,Small/polar beta-strand repeats,Domain
+gp8,wt,176,A,3,5755,0.46755756624062017,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,177,E,1,3390,0.8528957238828105,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,177,E,2,14938,0.6220202123060998,Small/polar beta-strand repeats,Domain
+gp8,wt,177,E,3,5755,0.4581119229319567,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,178,G,1,3390,0.8987503033344197,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,178,G,2,14938,0.6611683196748155,Small/polar beta-strand repeats,Domain
+gp8,wt,178,G,3,5755,0.47228036354511327,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,179,T,1,3390,0.8345538010883535,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,179,T,2,14938,0.6263700247428777,Small/polar beta-strand repeats,Domain
+gp8,wt,179,T,3,5755,0.4344979364094913,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,180,I,1,3390,0.8483102659376497,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,180,I,2,14938,0.6437691722088467,Small/polar beta-strand repeats,Domain
+gp8,wt,180,I,3,5755,0.47936455950185286,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,181,E,1,3390,0.884993929498937,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,181,E,2,14938,0.6437691722088467,Small/polar beta-strand repeats,Domain
+gp8,wt,181,E,3,5755,0.4746417621973598,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,182,P,1,3390,0.8712375556634543,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,182,P,2,14938,0.6872670920143401,Small/polar beta-strand repeats,Domain
+gp8,wt,182,P,3,5755,0.47228036354511327,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,183,G,1,3390,0.9033357612795807,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,183,G,2,14938,0.6611683196748155,Small/polar beta-strand repeats,Domain
+gp8,wt,183,G,3,5755,0.4746417621973598,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,184,D,1,3390,0.8528957238828105,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,184,D,2,14938,0.6437691722088467,Small/polar beta-strand repeats,Domain
+gp8,wt,184,D,3,5755,0.4297751391049982,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,185,G,1,3390,0.8528957238828105,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,185,G,2,14938,0.6829172795775622,Small/polar beta-strand repeats,Domain
+gp8,wt,185,G,3,5059,0.48378532523161316,Focal activation on structured segments,Disorder
+gp8,wt,186,Y,1,3390,0.9216775930602243,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,186,Y,2,14938,0.6350695984758622,Small/polar beta-strand repeats,Domain
+gp8,wt,186,Y,3,5059,0.48783372304240014,Focal activation on structured segments,Disorder
+gp8,wt,187,V,1,3390,0.8758230136086151,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,187,V,2,14938,0.6176703998693219,Small/polar beta-strand repeats,Domain
+gp8,wt,187,V,3,7819,0.4375756228200929,Phage and viral structural proteins,Interaction site
+gp8,wt,188,W,1,3390,0.8941648453892588,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,188,W,2,14938,0.652468745941831,Small/polar beta-strand repeats,Domain
+gp8,wt,188,W,3,5755,0.4557505242797102,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,wt,189,E,1,3390,0.8483102659376497,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,189,E,2,14938,0.6437691722088467,Small/polar beta-strand repeats,Domain
+gp8,wt,189,E,3,7819,0.47184360199720815,Phage and viral structural proteins,Interaction site
+gp8,wt,190,Y,1,3390,0.8804084715537761,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,190,Y,2,14938,0.6437691722088467,Small/polar beta-strand repeats,Domain
+gp8,wt,190,Y,3,5059,0.47366430622735023,Focal activation on structured segments,Disorder
+gp8,wt,191,L,1,3390,0.8116265113625489,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,191,L,2,14938,0.6655181321115934,Small/polar beta-strand repeats,Domain
+gp8,wt,191,L,3,7819,0.5298355841471811,Phage and viral structural proteins,Interaction site
+gp8,wt,192,F,1,3390,0.8299683431431927,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,192,F,2,14938,0.6350695984758622,Small/polar beta-strand repeats,Domain
+gp8,wt,192,F,3,5059,0.4777127040381372,Focal activation on structured segments,Disorder
+gp8,wt,193,E,1,3390,0.7290882683496525,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,193,E,2,14938,0.6220202123060998,Small/polar beta-strand repeats,Domain
+gp8,wt,193,E,3,7819,0.5192915627323009,Phage and viral structural proteins,Interaction site
+gp8,wt,194,I,1,3390,0.6786481854459757,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,194,I,2,14938,0.6394193597720688,Small/polar beta-strand repeats,Domain
+gp8,wt,194,I,3,7819,0.49293159961634586,Phage and viral structural proteins,Interaction site
+gp8,wt,195,P,1,3390,0.6327935604874599,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,195,P,2,14938,0.6089708261363376,Small/polar beta-strand repeats,Domain
+gp8,wt,195,P,3,7819,0.5351075496439985,Phage and viral structural proteins,Interaction site
+gp8,wt,196,P,1,3390,0.6327935604874599,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,196,P,2,14938,0.6220202123060998,Small/polar beta-strand repeats,Domain
+gp8,wt,196,P,3,7819,0.5430155657051587,Phage and viral structural proteins,Interaction site
+gp8,wt,197,D,1,14938,0.5611231450346376,Small/polar beta-strand repeats,Domain
+gp8,wt,197,D,2,7819,0.5351075496439985,Phage and viral structural proteins,Interaction site
+gp8,wt,197,D,3,3390,0.4975225055983062,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,wt,198,V,1,14938,0.5132754127923661,Small/polar beta-strand repeats,Domain
+gp8,wt,198,V,2,12804,0.5068299252322747,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,198,V,3,7819,0.4692075966434881,Phage and viral structural proteins,Interaction site
+gp8,wt,199,S,1,14938,0.5306746113989064,Small/polar beta-strand repeats,Domain
+gp8,wt,199,S,2,7819,0.521927568086021,Phage and viral structural proteins,Interaction site
+gp8,wt,199,S,3,12804,0.4786726960898975,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,200,I,1,12804,0.6324544438552717,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,200,I,2,15659,0.5982242440974777,Whole-chain activation with central peaks,Disorder
+gp8,wt,200,I,3,14938,0.49370135910800833,Small/polar beta-strand repeats,Domain
+gp8,wt,201,N,1,12804,0.6844370015671108,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,201,N,2,15659,0.6574235132357978,Whole-chain activation with central peaks,Disorder
+gp8,wt,201,N,3,14938,0.47412730542365056,Small/polar beta-strand repeats,Domain
+gp8,wt,202,R,1,12804,0.797065868303991,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,202,R,2,15659,0.7353173029034311,Whole-chain activation with central peaks,Disorder
+gp8,wt,202,R,3,7819,0.4481196442349731,Phage and viral structural proteins,Interaction site
+gp8,wt,203,C,1,12804,0.8013977190442775,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,203,C,2,15659,0.7820535583555427,Whole-chain activation with central peaks,Disorder
+gp8,wt,203,C,3,7819,0.4639356311466707,Phage and viral structural proteins,Interaction site
+gp8,wt,204,T,1,12804,0.8273890228165114,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,204,T,2,15659,0.7914008186201992,Whole-chain activation with central peaks,Disorder
+gp8,wt,204,T,3,7819,0.4481196442349731,Phage and viral structural proteins,Interaction site
+gp8,wt,205,N,1,12804,0.909694735040871,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,205,N,2,15659,0.8724103158382136,Whole-chain activation with central peaks,Disorder
+gp8,wt,205,N,3,7819,0.42703164661583537,Phage and viral structural proteins,Interaction site
+gp8,wt,206,E,1,12804,0.8837034312686372,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,206,E,2,15659,0.8537157953089005,Whole-chain activation with central peaks,Disorder
+gp8,wt,206,E,3,7819,0.442847633527533,Phage and viral structural proteins,Interaction site
+gp8,wt,207,Y,1,12804,0.8577121274964032,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,207,Y,2,15659,0.8412527816226918,Whole-chain activation with central peaks,Disorder
+gp8,wt,207,Y,3,7819,0.48238762341208835,Phage and viral structural proteins,Interaction site
+gp8,wt,208,I,1,15659,0.972114333585541,Whole-chain activation with central peaks,Disorder
+gp8,wt,208,I,2,12804,0.9660091933256253,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,208,I,3,7070,0.47132287442932697,Phage tail attachment segments,Disorder
+gp8,wt,209,V,1,15659,0.934725384269257,Whole-chain activation with central peaks,Disorder
+gp8,wt,209,V,2,12804,0.9053628843005844,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,209,V,3,7070,0.4659053536001464,Phage tail attachment segments,Disorder
+gp8,wt,210,V,1,15659,0.9596514116416743,Whole-chain activation with central peaks,Disorder
+gp8,wt,210,V,2,12804,0.9486816906992218,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,210,V,3,7070,0.49570164859405647,Phage tail attachment segments,Disorder
+gp8,wt,211,P,1,12804,0.957345392179795,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,211,P,2,15659,0.9097993568968397,Whole-chain activation with central peaks,Disorder
+gp8,wt,211,P,3,7070,0.45777909554523655,Phage tail attachment segments,Disorder
+gp8,wt,212,W,1,12804,0.992000397432602,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,212,W,2,15659,0.95341990479857,Whole-chain activation with central peaks,Disorder
+gp8,wt,212,W,3,7070,0.4631966163744171,Phage tail attachment segments,Disorder
+gp8,wt,213,P,1,12804,0.9703410440659119,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,213,P,2,15659,0.9658828267424366,Whole-chain activation with central peaks,Disorder
+gp8,wt,213,P,3,7070,0.49028412776487595,Phage tail attachment segments,Disorder
+gp8,wt,214,E,1,12804,0.9530135414395083,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,214,E,2,15659,0.934725384269257,Whole-chain activation with central peaks,Disorder
+gp8,wt,214,E,3,7070,0.48486665331341733,Phage tail attachment segments,Disorder
+gp8,wt,215,E,1,12804,0.9746728948061985,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,215,E,2,15659,0.972114333585541,Whole-chain activation with central peaks,Disorder
+gp8,wt,215,E,3,7070,0.4875753905391466,Phage tail attachment segments,Disorder
+gp8,wt,216,L,1,12804,0.9876685466923154,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,216,L,2,15659,0.9471883979554657,Whole-chain activation with central peaks,Disorder
+gp8,wt,216,L,3,7070,0.5309154180394251,Phage tail attachment segments,Disorder
+gp8,wt,217,K,1,15659,0.95341990479857,Whole-chain activation with central peaks,Disorder
+gp8,wt,217,K,2,12804,0.944349740293678,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,217,K,3,7070,0.4875753905391466,Phage tail attachment segments,Disorder
+gp8,wt,218,E,1,15659,0.9471883979554657,Whole-chain activation with central peaks,Disorder
+gp8,wt,218,E,2,12804,0.9313540884075611,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,218,E,3,7070,0.4875753905391466,Phage tail attachment segments,Disorder
+gp8,wt,219,D,1,15659,0.9783458404286454,Whole-chain activation with central peaks,Disorder
+gp8,wt,219,D,2,12804,0.944349740293678,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,219,D,3,7070,0.5471679341492448,Phage tail attachment segments,Disorder
+gp8,wt,220,P,1,15659,0.972114333585541,Whole-chain activation with central peaks,Disorder
+gp8,wt,220,P,2,12804,0.9530135414395083,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,220,P,3,7070,0.5065366438746957,Phage tail attachment segments,Disorder
+gp8,wt,221,T,1,15659,0.972114333585541,Whole-chain activation with central peaks,Disorder
+gp8,wt,221,T,2,12804,0.9486816906992218,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,221,T,3,7070,0.4686141372035976,Phage tail attachment segments,Disorder
+gp8,wt,222,R,1,15659,0.9284938774261526,Whole-chain activation with central peaks,Disorder
+gp8,wt,222,R,2,12804,0.9140265857811576,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,222,R,3,7070,0.5173716855330567,Phage tail attachment segments,Disorder
+gp8,wt,223,W,1,12804,0.9660091933256253,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,223,W,2,15659,0.9471883979554657,Whole-chain activation with central peaks,Disorder
+gp8,wt,223,W,3,7070,0.5038279066489663,Phage tail attachment segments,Disorder
+gp8,wt,224,G,1,15659,0.934725384269257,Whole-chain activation with central peaks,Disorder
+gp8,wt,224,G,2,12804,0.9053628843005844,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,224,G,3,7070,0.5065366438746957,Phage tail attachment segments,Disorder
+gp8,wt,225,Y,1,15659,0.95341990479857,Whole-chain activation with central peaks,Disorder
+gp8,wt,225,Y,2,12804,0.9053628843005844,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,225,Y,3,7070,0.5363329388686057,Phage tail attachment segments,Disorder
+gp8,wt,226,E,1,15659,0.972114333585541,Whole-chain activation with central peaks,Disorder
+gp8,wt,226,E,2,12804,0.8880352820089237,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,226,E,3,7070,0.5363329388686057,Phage tail attachment segments,Disorder
+gp8,wt,227,D,1,15659,0.9222623705830483,Whole-chain activation with central peaks,Disorder
+gp8,wt,227,D,2,12804,0.8577121274964032,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,227,D,3,7070,0.4875753905391466,Phage tail attachment segments,Disorder
+gp8,wt,228,N,1,15659,0.9596514116416743,Whole-chain activation with central peaks,Disorder
+gp8,wt,228,N,2,12804,0.8837034312686372,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,228,N,3,7070,0.5038279066489663,Phage tail attachment segments,Disorder
+gp8,wt,229,L,1,15659,0.9160308637399439,Whole-chain activation with central peaks,Disorder
+gp8,wt,229,L,2,12804,0.8490484260158301,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,229,L,3,7070,0.5038279066489663,Phage tail attachment segments,Disorder
+gp8,wt,230,T,1,15659,0.8911048363675266,Whole-chain activation with central peaks,Disorder
+gp8,wt,230,T,2,12804,0.797065868303991,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,230,T,3,7070,0.4659053536001464,Phage tail attachment segments,Disorder
+gp8,wt,231,W,1,15659,0.934725384269257,Whole-chain activation with central peaks,Disorder
+gp8,wt,231,W,2,12804,0.8317208735567979,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,231,W,3,7070,0.5282066808136958,Phage tail attachment segments,Disorder
+gp8,wt,232,Q,1,15659,0.8474842884657962,Whole-chain activation with central peaks,Disorder
+gp8,wt,232,Q,2,12804,0.7667427137914704,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,232,Q,3,7070,0.5227891599845153,Phage tail attachment segments,Disorder
+gp8,wt,233,Q,1,15659,0.8786418226813179,Whole-chain activation with central peaks,Disorder
+gp8,wt,233,Q,2,12804,0.7624108132185553,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,233,Q,3,7070,0.5661291874847938,Phage tail attachment segments,Disorder
+gp8,wt,234,D,1,15659,0.8911048363675266,Whole-chain activation with central peaks,Disorder
+gp8,wt,234,D,2,12804,0.7494151613324384,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,234,D,3,7070,0.5444591969235155,Phage tail attachment segments,Disorder
+gp8,wt,235,D,1,15659,0.8724103158382136,Whole-chain activation with central peaks,Disorder
+gp8,wt,235,D,2,12804,0.7104282555067161,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,235,D,3,7070,0.49570164859405647,Phage tail attachment segments,Disorder
+gp8,wt,236,F,1,15659,0.8786418226813179,Whole-chain activation with central peaks,Disorder
+gp8,wt,236,F,2,12804,0.7104282555067161,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,236,F,3,7070,0.48486665331341733,Phage tail attachment segments,Disorder
+gp8,wt,237,G,1,15659,0.9035678500537353,Whole-chain activation with central peaks,Disorder
+gp8,wt,237,G,2,12804,0.7190920068199179,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,237,G,3,7070,0.4659053536001464,Phage tail attachment segments,Disorder
+gp8,wt,238,L,1,15659,0.7976323254633035,Whole-chain activation with central peaks,Disorder
+gp8,wt,238,L,2,12804,0.6497819464816752,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,238,L,3,7070,0.4659053536001464,Phage tail attachment segments,Disorder
+gp8,wt,239,I,1,15659,0.8661788089951092,Whole-chain activation with central peaks,Disorder
+gp8,wt,239,I,2,12804,0.6497819464816752,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,239,I,3,7070,0.41443906804495806,Phage tail attachment segments,Disorder
+gp8,wt,240,Y,1,15659,0.7477802707184688,Whole-chain activation with central peaks,Disorder
+gp8,wt,240,Y,2,12804,0.6194587919691548,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,240,Y,3,7070,0.5092454274781468,Phage tail attachment segments,Disorder
+gp8,wt,241,R,1,15659,0.8412527816226918,Whole-chain activation with central peaks,Disorder
+gp8,wt,241,R,2,12804,0.6844370015671108,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,241,R,3,7070,0.452361621093778,Phage tail attachment segments,Disorder
+gp8,wt,242,V,1,15659,0.8225583528357209,Whole-chain activation with central peaks,Disorder
+gp8,wt,242,V,2,12804,0.6151268913962396,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,242,V,3,7070,0.5146629019296055,Phage tail attachment segments,Disorder
+gp8,wt,243,K,1,15659,0.732201549481879,Whole-chain activation with central peaks,Disorder
+gp8,wt,243,K,2,12804,0.6021312893427512,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,243,K,3,7070,0.5282066808136958,Phage tail attachment segments,Disorder
+gp8,wt,244,A,1,15659,0.8038638323064079,Whole-chain activation with central peaks,Disorder
+gp8,wt,244,A,2,12804,0.5631443336844004,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,244,A,3,7070,0.47132287442932697,Phage tail attachment segments,Disorder
+gp8,wt,245,N,1,15659,0.6948125084232529,Whole-chain activation with central peaks,Disorder
+gp8,wt,245,N,2,7070,0.5498766713749741,Phage tail attachment segments,Disorder
+gp8,wt,245,N,3,12804,0.46784301940655243,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,246,T,1,15659,0.732201549481879,Whole-chain activation with central peaks,Disorder
+gp8,wt,246,T,2,7070,0.4767403952585075,Phage tail attachment segments,Disorder
+gp8,wt,246,T,3,12804,0.46134519346349395,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,247,I,1,15659,0.6356132392849326,Whole-chain activation with central peaks,Disorder
+gp8,wt,247,I,2,7070,0.49570164859405647,Phage tail attachment segments,Disorder
+gp8,wt,247,I,3,12804,0.40286480980859635,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,248,R,1,15659,0.7259700426387746,Whole-chain activation with central peaks,Disorder
+gp8,wt,248,R,2,7070,0.4821578697099661,Phage tail attachment segments,Disorder
+gp8,wt,248,R,3,12804,0.4331879643211168,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,249,F,1,15659,0.5951084906759254,Whole-chain activation with central peaks,Disorder
+gp8,wt,249,F,2,7070,0.5065366438746957,Phage tail attachment segments,Disorder
+gp8,wt,249,F,3,12804,0.37903948123913433,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,250,K,1,15659,0.7290857960603268,Whole-chain activation with central peaks,Disorder
+gp8,wt,250,K,2,7070,0.5498766713749741,Phage tail attachment segments,Disorder
+gp8,wt,250,K,3,12804,0.39420105849539455,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,251,A,1,15659,0.6293817324418283,Whole-chain activation with central peaks,Disorder
+gp8,wt,251,A,2,7070,0.47132287442932697,Phage tail attachment segments,Disorder
+gp8,wt,251,A,3,14110,0.4108602672606944,Proteolytic maturation domain hotspots,Post-translational modification
+gp8,wt,252,Y,1,15659,0.6636550200789022,Whole-chain activation with central peaks,Disorder
+gp8,wt,252,Y,2,7070,0.5119541647038761,Phage tail attachment segments,Disorder
+gp8,wt,252,Y,3,12804,0.37254165529607586,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,253,L,1,15659,0.6480762529711414,Whole-chain activation with central peaks,Disorder
+gp8,wt,253,L,2,7070,0.4631966163744171,Phage tail attachment segments,Disorder
+gp8,wt,253,L,3,12804,0.39420105849539455,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,254,D,1,15659,0.6511920063926935,Whole-chain activation with central peaks,Disorder
+gp8,wt,254,D,2,7070,0.5444591969235155,Phage tail attachment segments,Disorder
+gp8,wt,254,D,3,14110,0.35622460240170617,Proteolytic maturation domain hotspots,Post-translational modification
+gp8,wt,255,S,1,15659,0.7353173029034311,Whole-chain activation with central peaks,Disorder
+gp8,wt,255,S,2,7070,0.45777909554523655,Phage tail attachment segments,Disorder
+gp8,wt,255,S,3,12467,0.41376955355285167,Subunit assembly interface belts,Interaction site
+gp8,wt,256,V,1,15659,0.6823494947370442,Whole-chain activation with central peaks,Disorder
+gp8,wt,256,V,2,7070,0.5254978972102446,Phage tail attachment segments,Disorder
+gp8,wt,256,V,3,7411,0.4066746095106684,Short surface-exposed interfacial motifs,Ligand-binding site
+gp8,wt,257,Y,1,15659,0.6262659790202761,Whole-chain activation with central peaks,Disorder
+gp8,wt,257,Y,2,7411,0.4588681382727572,Short surface-exposed interfacial motifs,Ligand-binding site
+gp8,wt,257,Y,3,7070,0.45507035831950726,Phage tail attachment segments,Disorder
+gp8,wt,258,F,1,15659,0.6138029653340674,Whole-chain activation with central peaks,Disorder
+gp8,wt,258,F,2,7070,0.501119169423237,Phage tail attachment segments,Disorder
+gp8,wt,258,F,3,7411,0.46539232936801833,Short surface-exposed interfacial motifs,Ligand-binding site
+gp8,wt,259,P,1,15659,0.6480762529711414,Whole-chain activation with central peaks,Disorder
+gp8,wt,259,P,2,7070,0.539041676094335,Phage tail attachment segments,Disorder
+gp8,wt,259,P,3,7411,0.43277137389171283,Short surface-exposed interfacial motifs,Ligand-binding site
+gp8,wt,260,D,1,15659,0.5795297235681646,Whole-chain activation with central peaks,Disorder
+gp8,wt,260,D,2,7070,0.49028412776487595,Phage tail attachment segments,Disorder
+gp8,wt,260,D,3,7411,0.445819756082235,Short surface-exposed interfacial motifs,Ligand-binding site
+gp8,wt,261,A,1,15659,0.6075715043621341,Whole-chain activation with central peaks,Disorder
+gp8,wt,261,A,2,7070,0.44965283749032675,Phage tail attachment segments,Disorder
+gp8,wt,261,A,3,1587,0.4023856293936827,Beta-edge interaction loops,Interaction site
+gp8,wt,262,A,1,15659,0.5764139701466124,Whole-chain activation with central peaks,Disorder
+gp8,wt,262,A,2,1587,0.38614584157623655,Beta-edge interaction loops,Interaction site
+gp8,wt,262,A,3,7070,0.3738078009592698,Phage tail attachment segments,Disorder
+gp8,wt,263,L,1,15659,0.5203304544298444,Whole-chain activation with central peaks,Disorder
+gp8,wt,263,L,2,1587,0.4691491622786518,Beta-edge interaction loops,Interaction site
+gp8,wt,263,L,3,7070,0.3873515566544992,Phage tail attachment segments,Disorder
+gp8,wt,264,P,1,15659,0.5546036961957472,Whole-chain activation with central peaks,Disorder
+gp8,wt,264,P,2,1587,0.4222342309101815,Beta-edge interaction loops,Interaction site
+gp8,wt,264,P,3,7070,0.3372396397121755,Phage tail attachment segments,Disorder
+gp8,wt,265,G,1,7070,0.4361091049839583,Phage tail attachment segments,Disorder
+gp8,wt,265,G,2,15659,0.42997365107600244,Whole-chain activation with central peaks,Disorder
+gp8,wt,265,G,3,1587,0.3987767904602882,Beta-edge interaction loops,Interaction site
+gp8,wt,266,N,1,15659,0.5109831941651879,Whole-chain activation with central peaks,Disorder
+gp8,wt,266,N,2,12467,0.4201845802167165,Subunit assembly interface belts,Interaction site
+gp8,wt,266,N,3,1587,0.3608839690424751,Beta-edge interaction loops,Interaction site
+gp8,wt,267,K,1,15659,0.44866817160531547,Whole-chain activation with central peaks,Disorder
+gp8,wt,267,K,2,7070,0.41443906804495806,Phage tail attachment segments,Disorder
+gp8,wt,267,K,3,15164,0.37416381690797296,C2 beta-sandwich loop junctions,Uncategorized
+gp8,wt,268,G,1,12467,0.4458447313699851,Subunit assembly interface belts,Interaction site
+gp8,wt,268,G,2,7070,0.42527410970331914,Phage tail attachment segments,Disorder
+gp8,wt,268,G,3,15164,0.4136484363087265,C2 beta-sandwich loop junctions,Uncategorized
+gp8,wt,269,F,1,15164,0.49261767511023363,C2 beta-sandwich loop junctions,Uncategorized
+gp8,wt,269,F,2,12467,0.3720718579888256,Subunit assembly interface belts,Interaction site
+gp8,wt,269,F,3,15659,0.3629850213193873,Whole-chain activation with central peaks,Disorder
+gp8,wt,270,R,1,12467,0.4330146780422554,Subunit assembly interface belts,Interaction site
+gp8,wt,270,R,2,7070,0.3765165613738601,Phage tail attachment segments,Disorder
+gp8,wt,270,R,3,15164,0.3290385415853147,C2 beta-sandwich loop junctions,Uncategorized
+gp8,wt,271,Q,1,12467,0.396128219102771,Subunit assembly interface belts,Interaction site
+gp8,wt,271,Q,2,7734,0.36012825409761995,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,wt,271,Q,3,4272,0.31979529860081235,Aromatic hydrophobic core tracts,Compositional bias
+gp8,wt,272,I,1,12467,0.5035800158425779,Subunit assembly interface belts,Interaction site
+gp8,wt,272,I,2,7734,0.3669878314469312,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,wt,272,I,3,4272,0.30943756095436564,Aromatic hydrophobic core tracts,Compositional bias
+gp8,wt,273,S,1,12467,0.4650898113615797,Subunit assembly interface belts,Interaction site
+gp8,wt,273,S,2,7734,0.4201496297805566,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,wt,273,S,3,4817,0.3531560535826585,Extracellular beta-sandwich domains,Domain
+gp8,wt,274,I,1,1326,0.261127194282396,Buried hydrophobic core packing,Structural motif
+gp8,wt,274,I,2,4965,0.18685526628367738,Regulatory all-alpha helical cores,Domain
+gp8,wt,274,I,3,3703,0.18408535148196292,Organelle mature domain activator,Domain
+gp8,wt,275,I,1,7734,0.4458730765018151,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,wt,275,I,2,12467,0.4201845802167165,Subunit assembly interface belts,Interaction site
+gp8,wt,275,I,3,4272,0.3443949390353751,Aromatic hydrophobic core tracts,Compositional bias
+gp8,wt,276,T,1,7734,0.4424432667195986,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,wt,276,T,2,12467,0.41056206246982385,Subunit assembly interface belts,Interaction site
+gp8,wt,276,T,3,4272,0.3495738078585985,Aromatic hydrophobic core tracts,Compositional bias
+gp8,wt,277,N,1,12467,0.49074996251484826,Subunit assembly interface belts,Interaction site
+gp8,wt,277,N,2,7734,0.3704176412291477,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,wt,277,N,3,15659,0.3442905007900743,Whole-chain activation with central peaks,Disorder
+gp8,wt,278,P,1,12467,0.5292401669958465,Subunit assembly interface belts,Interaction site
+gp8,wt,278,P,2,15659,0.4362051579191068,Whole-chain activation with central peaks,Disorder
+gp8,wt,278,P,3,7734,0.4235793973476513,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,wt,279,L,1,15659,0.5172147010082923,Whole-chain activation with central peaks,Disorder
+gp8,wt,279,L,2,7734,0.37899212346956723,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,wt,279,L,3,12467,0.3367891890886643,Subunit assembly interface belts,Interaction site
+gp8,wt,280,E,1,15659,0.4829414133712183,Whole-chain activation with central peaks,Disorder
+gp8,wt,280,E,2,12467,0.4169770891336887,Subunit assembly interface belts,Interaction site
+gp8,wt,280,E,3,15513,0.38838500617521127,Catalytic/interface βαβ module,Structural motif
+gp8,wt,281,A,1,15659,0.5732982167250602,Whole-chain activation with central peaks,Disorder
+gp8,wt,281,A,2,15513,0.3808435813065906,Catalytic/interface βαβ module,Structural motif
+gp8,wt,281,A,3,12467,0.30631777906194935,Subunit assembly interface belts,Interaction site
+gp8,wt,282,K,1,15659,0.5888769838328212,Whole-chain activation with central peaks,Disorder
+gp8,wt,282,K,2,15513,0.38838500617521127,Catalytic/interface βαβ module,Structural motif
+gp8,wt,282,K,3,7819,0.363767698969045,Phage and viral structural proteins,Interaction site
+gp8,wt,283,A,1,15659,0.5888769838328212,Whole-chain activation with central peaks,Disorder
+gp8,wt,283,A,2,15513,0.377072834288424,Catalytic/interface βαβ module,Structural motif
+gp8,wt,283,A,3,3509,0.3115347427076598,C-terminal helix-to-IDR transition,Disorder
+gp8,wt,284,H,1,15659,0.5764139701466124,Whole-chain activation with central peaks,Disorder
+gp8,wt,284,H,2,15513,0.44871668179502716,Catalytic/interface βαβ module,Structural motif
+gp8,wt,284,H,3,7070,0.3264046444315364,Phage tail attachment segments,Disorder
+gp8,wt,285,P,1,15659,0.5795297235681646,Whole-chain activation with central peaks,Disorder
+gp8,wt,285,P,2,15513,0.4260923034375962,Catalytic/interface βαβ module,Structural motif
+gp8,wt,285,P,3,3038,0.3774447385525912,Extended structured domain surfaces,Domain
+gp8,wt,286,N,1,15659,0.6013399975190298,Whole-chain activation with central peaks,Disorder
+gp8,wt,286,N,2,15513,0.40346792508016527,Catalytic/interface βαβ module,Structural motif
+gp8,wt,286,N,3,7819,0.30050375132225454,Phage and viral structural proteins,Interaction site
+gp8,wt,287,D,1,15659,0.5919927372543733,Whole-chain activation with central peaks,Disorder
+gp8,wt,287,D,2,15513,0.41289475804172554,Catalytic/interface βαβ module,Structural motif
+gp8,wt,287,D,3,7819,0.36903970967648503,Phage and viral structural proteins,Interaction site
+gp8,wt,288,P,1,15659,0.6480762529711414,Whole-chain activation with central peaks,Disorder
+gp8,wt,288,P,2,15513,0.40346792508016527,Catalytic/interface βαβ module,Structural motif
+gp8,wt,288,P,3,7819,0.3584957108669162,Phage and viral structural proteins,Interaction site
+gp8,wt,289,N,1,15659,0.6387289927064849,Whole-chain activation with central peaks,Disorder
+gp8,wt,289,N,2,15513,0.43740447532438353,Catalytic/interface βαβ module,Structural motif
+gp8,wt,289,N,3,7819,0.3874917019419027,Phage and viral structural proteins,Interaction site
+gp8,wt,290,V,1,15659,0.6293817324418283,Whole-chain activation with central peaks,Disorder
+gp8,wt,290,V,2,15513,0.4449459347768605,Catalytic/interface βαβ module,Structural motif
+gp8,wt,290,V,3,3038,0.4209080479573083,Extended structured domain surfaces,Domain
+gp8,wt,291,K,1,15659,0.6200344721771718,Whole-chain activation with central peaks,Disorder
+gp8,wt,291,K,2,15513,0.45060205530411046,Catalytic/interface βαβ module,Structural motif
+gp8,wt,291,K,3,3038,0.4346333338496355,Extended structured domain surfaces,Domain
+gp8,wt,292,A,1,15659,0.6262659790202761,Whole-chain activation with central peaks,Disorder
+gp8,wt,292,A,2,15513,0.45625814124750413,Catalytic/interface βαβ module,Structural motif
+gp8,wt,292,A,3,3038,0.41404542899139113,Extended structured domain surfaces,Domain
+gp8,wt,293,E,1,15659,0.6667707735004543,Whole-chain activation with central peaks,Disorder
+gp8,wt,293,E,2,15513,0.4694556866433748,Catalytic/interface βαβ module,Structural motif
+gp8,wt,293,E,3,3038,0.41175790532291634,Extended structured domain surfaces,Domain
+gp8,wt,294,K,1,15659,0.679233741315492,Whole-chain activation with central peaks,Disorder
+gp8,wt,294,K,2,15513,0.46002885368181445,Catalytic/interface βαβ module,Structural motif
+gp8,wt,294,K,3,3038,0.4597963340053223,Extended structured domain surfaces,Domain
+gp8,wt,295,D,1,15659,0.6480762529711414,Whole-chain activation with central peaks,Disorder
+gp8,wt,295,D,2,15513,0.48265323203924543,Catalytic/interface βαβ module,Structural motif
+gp8,wt,295,D,3,3038,0.47809666723459904,Extended structured domain surfaces,Domain
+gp8,wt,296,Y,1,15659,0.6698865269220066,Whole-chain activation with central peaks,Disorder
+gp8,wt,296,Y,2,15513,0.48265323203924543,Catalytic/interface βαβ module,Structural motif
+gp8,wt,296,Y,3,3038,0.4552212387078799,Extended structured domain surfaces,Domain
+gp8,wt,297,Y,1,15659,0.6885810015801486,Whole-chain activation with central peaks,Disorder
+gp8,wt,297,Y,2,15513,0.48265323203924543,Catalytic/interface βαβ module,Structural motif
+gp8,wt,297,Y,3,3038,0.4666589529712395,Extended structured domain surfaces,Domain
+gp8,wt,298,D,1,15659,0.6730022803435587,Whole-chain activation with central peaks,Disorder
+gp8,wt,298,D,2,3038,0.5009720957613182,Extended structured domain surfaces,Domain
+gp8,wt,298,D,3,15513,0.4939654039260328,Catalytic/interface βαβ module,Structural motif
+gp8,wt,299,P,1,15659,0.6636550200789022,Whole-chain activation with central peaks,Disorder
+gp8,wt,299,P,2,15513,0.4939654039260328,Catalytic/interface βαβ module,Structural motif
+gp8,wt,299,P,3,3038,0.48724685782948385,Extended structured domain surfaces,Domain
+gp8,wt,300,E,1,15659,0.6761179878939398,Whole-chain activation with central peaks,Disorder
+gp8,wt,300,E,2,3038,0.4803841909030738,Extended structured domain surfaces,Domain
+gp8,wt,300,E,3,15513,0.4713410601524581,Catalytic/interface βαβ module,Structural motif
+gp8,wt,301,D,1,15659,0.6543077598142457,Whole-chain activation with central peaks,Disorder
+gp8,wt,301,D,2,3038,0.5055471910587607,Extended structured domain surfaces,Domain
+gp8,wt,301,D,3,15513,0.4901946914917224,Catalytic/interface βαβ module,Structural motif
+gp8,wt,302,L,1,15659,0.641844746128037,Whole-chain activation with central peaks,Disorder
+gp8,wt,302,L,2,15513,0.48076785853016213,Catalytic/interface βαβ module,Structural motif
+gp8,wt,302,L,3,3038,0.47352157193715666,Extended structured domain surfaces,Domain
+gp8,wt,303,M,1,15659,0.6480762529711414,Whole-chain activation with central peaks,Disorder
+gp8,wt,303,M,2,15513,0.47511177258676845,Catalytic/interface βαβ module,Structural motif
+gp8,wt,303,M,3,3038,0.4689464766397142,Extended structured domain surfaces,Domain
+gp8,wt,304,R,1,15659,0.6511920063926935,Whole-chain activation with central peaks,Disorder
+gp8,wt,304,R,2,3038,0.4758091435661243,Extended structured domain surfaces,Domain
+gp8,wt,304,R,3,15513,0.4694556866433748,Catalytic/interface βαβ module,Structural motif
+gp8,wt,305,H,1,15659,0.6667707735004543,Whole-chain activation with central peaks,Disorder
+gp8,wt,305,H,2,3038,0.48724685782948385,Extended structured domain surfaces,Domain
+gp8,wt,305,H,3,15513,0.47699714609585175,Catalytic/interface βαβ module,Structural motif
+gp8,wt,306,S,1,15659,0.6543077598142457,Whole-chain activation with central peaks,Disorder
+gp8,wt,306,S,2,3038,0.526135095917005,Extended structured domain surfaces,Domain
+gp8,wt,306,S,3,15513,0.4656849396252081,Catalytic/interface βαβ module,Structural motif
+gp8,wt,307,G,1,15659,0.6698865269220066,Whole-chain activation with central peaks,Disorder
+gp8,wt,307,G,2,3038,0.5444354291462817,Extended structured domain surfaces,Domain
+gp8,wt,307,G,3,15513,0.4939654039260328,Catalytic/interface βαβ module,Structural motif
+gp8,wt,308,E,1,15659,0.6293817324418283,Whole-chain activation with central peaks,Disorder
+gp8,wt,308,E,2,3038,0.4803841909030738,Extended structured domain surfaces,Domain
+gp8,wt,308,E,3,15513,0.4637996006999811,Catalytic/interface βαβ module,Structural motif
+gp8,wt,309,M,1,15659,0.604455750940582,Whole-chain activation with central peaks,Disorder
+gp8,wt,309,M,2,3038,0.48953438149795864,Extended structured domain surfaces,Domain
+gp8,wt,309,M,3,15513,0.4524873942293375,Catalytic/interface βαβ module,Structural motif
+gp8,wt,310,I,1,15659,0.5359092215376052,Whole-chain activation with central peaks,Disorder
+gp8,wt,310,I,2,15513,0.41478013155080884,Catalytic/interface βαβ module,Structural motif
+gp8,wt,310,I,3,3038,0.39803261943058915,Extended structured domain surfaces,Domain
+gp8,wt,311,Y,1,15659,0.5764139701466124,Whole-chain activation with central peaks,Disorder
+gp8,wt,311,Y,2,3038,0.4758091435661243,Extended structured domain surfaces,Domain
+gp8,wt,311,Y,3,15513,0.4732263990776851,Catalytic/interface βαβ module,Structural motif
+gp8,wt,312,M,1,15659,0.5982242440974777,Whole-chain activation with central peaks,Disorder
+gp8,wt,312,M,2,3038,0.5307101912144474,Extended structured domain surfaces,Domain
+gp8,wt,312,M,3,15513,0.4788824850210788,Catalytic/interface βαβ module,Structural motif
+gp8,wt,313,E,1,15659,0.5795297235681646,Whole-chain activation with central peaks,Disorder
+gp8,wt,313,E,2,3038,0.5032596673902858,Extended structured domain surfaces,Domain
+gp8,wt,313,E,3,15513,0.5015068633785097,Catalytic/interface βαβ module,Structural motif
+gp8,wt,314,N,1,15659,0.6138029653340674,Whole-chain activation with central peaks,Disorder
+gp8,wt,314,N,2,3038,0.526135095917005,Extended structured domain surfaces,Domain
+gp8,wt,314,N,3,15513,0.4977361509441994,Catalytic/interface βαβ module,Structural motif
+gp8,wt,315,R,1,15659,0.5701824633035081,Whole-chain activation with central peaks,Disorder
+gp8,wt,315,R,2,3038,0.542147905477807,Extended structured domain surfaces,Domain
+gp8,wt,315,R,3,15513,0.4977361509441994,Catalytic/interface βαβ module,Structural motif
+gp8,wt,316,P,1,15659,0.6013399975190298,Whole-chain activation with central peaks,Disorder
+gp8,wt,316,P,2,3038,0.5284226195854798,Extended structured domain surfaces,Domain
+gp8,wt,316,P,3,15513,0.5128190698491534,Catalytic/interface βαβ module,Structural motif
+gp8,wt,317,P,1,15659,0.6013399975190298,Whole-chain activation with central peaks,Disorder
+gp8,wt,317,P,2,3038,0.5375728101803646,Extended structured domain surfaces,Domain
+gp8,wt,317,P,3,15513,0.535443413622728,Catalytic/interface βαβ module,Structural motif
+gp8,wt,318,I,1,15659,0.6169187187556197,Whole-chain activation with central peaks,Disorder
+gp8,wt,318,I,2,3038,0.5398603338488394,Extended structured domain surfaces,Domain
+gp8,wt,318,I,3,15513,0.5316727011884177,Catalytic/interface βαβ module,Structural motif
+gp8,wt,319,I,1,15659,0.5795297235681646,Whole-chain activation with central peaks,Disorder
+gp8,wt,319,I,2,15513,0.5392141606408947,Catalytic/interface βαβ module,Structural motif
+gp8,wt,319,I,3,3038,0.5032596673902858,Extended structured domain surfaces,Domain
+gp8,wt,320,M,1,15659,0.567066709881956,Whole-chain activation with central peaks,Disorder
+gp8,wt,320,M,2,3038,0.5490105244437242,Extended structured domain surfaces,Domain
+gp8,wt,320,M,3,15513,0.5392141606408947,Catalytic/interface βαβ module,Structural motif
+gp8,wt,321,A,1,3038,0.5535856197411666,Extended structured domain surfaces,Domain
+gp8,wt,321,A,2,15659,0.5483721893526429,Whole-chain activation with central peaks,Disorder
+gp8,wt,321,A,3,15513,0.535443413622728,Catalytic/interface βαβ module,Structural motif
+gp8,wt,322,M,1,15659,0.5577194496172994,Whole-chain activation with central peaks,Disorder
+gp8,wt,322,M,2,15513,0.5467556200933716,Catalytic/interface βαβ module,Structural motif
+gp8,wt,322,M,3,3038,0.5192724769510878,Extended structured domain surfaces,Domain
+gp8,wt,323,D,1,3038,0.5856112388627706,Extended structured domain surfaces,Domain
+gp8,wt,323,D,2,15659,0.5390249749591574,Whole-chain activation with central peaks,Disorder
+gp8,wt,323,D,3,15513,0.5316727011884177,Catalytic/interface βαβ module,Structural motif
+gp8,wt,324,Q,1,3038,0.5558731434096413,Extended structured domain surfaces,Domain
+gp8,wt,324,Q,2,15659,0.5359092215376052,Whole-chain activation with central peaks,Disorder
+gp8,wt,324,Q,3,15513,0.5128190698491534,Catalytic/interface βαβ module,Structural motif
+gp8,wt,325,T,1,15659,0.6138029653340674,Whole-chain activation with central peaks,Disorder
+gp8,wt,325,T,2,3038,0.5764610482678857,Extended structured domain surfaces,Domain
+gp8,wt,325,T,3,15513,0.5090483228309867,Catalytic/interface βαβ module,Structural motif
+gp8,wt,326,E,1,15659,0.6200344721771718,Whole-chain activation with central peaks,Disorder
+gp8,wt,326,E,2,3038,0.5695984293019686,Extended structured domain surfaces,Domain
+gp8,wt,326,E,3,15513,0.5015068633785097,Catalytic/interface βαβ module,Structural motif
+gp8,wt,327,E,1,15659,0.6698865269220066,Whole-chain activation with central peaks,Disorder
+gp8,wt,327,E,2,3038,0.5558731434096413,Extended structured domain surfaces,Domain
+gp8,wt,327,E,3,12804,0.48083862146004075,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,328,I,1,15659,0.5795297235681646,Whole-chain activation with central peaks,Disorder
+gp8,wt,328,I,2,3038,0.5215600006195626,Extended structured domain surfaces,Domain
+gp8,wt,328,I,3,12804,0.4786726960898975,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,329,N,1,15659,0.6667707735004543,Whole-chain activation with central peaks,Disorder
+gp8,wt,329,N,2,3038,0.5009720957613182,Extended structured domain surfaces,Domain
+gp8,wt,329,N,3,12804,0.4981661739190729,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,330,I,1,15659,0.5857612304112689,Whole-chain activation with central peaks,Disorder
+gp8,wt,330,I,2,3038,0.510122286356203,Extended structured domain surfaces,Domain
+gp8,wt,330,I,3,12804,0.4895024226058711,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,331,L,1,15659,0.697928261844805,Whole-chain activation with central peaks,Disorder
+gp8,wt,331,L,2,12804,0.5089958506024179,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,331,L,3,3038,0.48953438149795864,Extended structured domain surfaces,Domain
+gp8,wt,332,F,1,15659,0.6885810015801486,Whole-chain activation with central peaks,Disorder
+gp8,wt,332,F,2,12804,0.5198255771183916,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,332,F,3,3038,0.4437835244445203,Extended structured domain surfaces,Domain
+gp8,wt,333,T,1,15659,0.6574235132357978,Whole-chain activation with central peaks,Disorder
+gp8,wt,333,T,2,12804,0.47650677071975417,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,333,T,3,3038,0.47352157193715666,Extended structured domain surfaces,Domain
+gp8,wt,334,F,1,15659,0.6262659790202761,Whole-chain activation with central peaks,Disorder
+gp8,wt,334,F,2,12804,0.46351111883363727,Cysteine-rich LU/CRD domains,Domain
+gp8,wt,334,F,3,7819,0.39539967279244015,Phage and viral structural proteins,Interaction site
+gp8,evolved,1,M,1,12804,0.8707077793825202,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,1,M,2,15659,0.8100953391495122,Whole-chain activation with central peaks,Disorder
+gp8,evolved,1,M,3,2014,0.41506735399099165,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,evolved,2,N,1,15659,1.0406609088596888,Whole-chain activation with central peaks,Disorder
+gp8,evolved,2,N,2,12804,1.0353192038312393,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,2,N,3,2014,0.51109039927833,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,evolved,3,D,1,12804,1.0656423583437598,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,3,D,2,15659,1.02819789517348,Whole-chain activation with central peaks,Disorder
+gp8,evolved,3,D,3,2014,0.5141878944465552,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,evolved,4,S,1,15659,1.0655869362321062,Whole-chain activation with central peaks,Disorder
+gp8,evolved,4,S,2,12804,1.0439830049770698,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,4,S,3,2014,0.5141878944465552,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,evolved,5,S,1,12804,1.100297463261824,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,5,S,2,15659,1.0842814567614192,Whole-chain activation with central peaks,Disorder
+gp8,evolved,5,S,3,2014,0.4925052702979886,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,evolved,6,V,1,12804,1.134952468514631,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,6,V,2,15659,1.0967443787052857,Whole-chain activation with central peaks,Disorder
+gp8,evolved,6,V,3,2014,0.4925052702979886,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,evolved,7,I,1,12804,1.1782712749132684,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,7,I,2,15659,1.134133419763912,Whole-chain activation with central peaks,Disorder
+gp8,evolved,7,I,3,2014,0.47082264614942193,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,evolved,8,Y,1,12804,1.1696074737674382,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,8,Y,2,15659,1.1465964334501204,Whole-chain activation with central peaks,Disorder
+gp8,evolved,8,Y,3,2014,0.46772515098119666,Disordered N-terminal assembly/export tail,Post-translational modification
+gp8,evolved,9,R,1,12804,1.1696074737674382,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,9,R,2,15659,1.1403649266070162,Whole-chain activation with central peaks,Disorder
+gp8,evolved,9,R,3,7453,0.44192345580647324,N-terminal assembly leader,Compositional bias
+gp8,evolved,10,A,1,12804,1.1955987775396721,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,10,A,2,15659,1.1590594471363291,Whole-chain activation with central peaks,Disorder
+gp8,evolved,10,A,3,11088,0.4471652455972223,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,11,I,1,12804,1.2389175839383095,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,11,I,2,15659,1.1590594471363291,Whole-chain activation with central peaks,Disorder
+gp8,evolved,11,I,3,11088,0.45772823507740296,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,12,V,1,12804,1.256245086564713,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,12,V,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,evolved,12,V,3,11088,0.4753331405406202,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,13,T,1,12804,1.1955987775396721,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,13,T,2,15659,1.1092073923914945,Whole-chain activation with central peaks,Disorder
+gp8,evolved,13,T,3,11088,0.44364427110490035,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,14,S,1,12804,1.2649088877105434,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,14,S,2,15659,1.1465964334501204,Whole-chain activation with central peaks,Disorder
+gp8,evolved,14,S,3,11088,0.4753331405406202,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,15,K,1,12804,1.230253782792479,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,15,K,2,15659,1.1465964334501204,Whole-chain activation with central peaks,Disorder
+gp8,evolved,15,K,3,11088,0.47885414803454956,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,16,F,1,12804,1.282236390336947,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,16,F,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,evolved,16,F,3,11088,0.5070220429779475,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,17,R,1,12804,1.3082276941091808,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,17,R,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,evolved,17,R,3,11088,0.5246269484411646,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,18,T,1,12804,1.29090009181752,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,18,T,2,15659,1.1839854745087466,Whole-chain activation with central peaks,Disorder
+gp8,evolved,18,T,3,11088,0.4999800609916961,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,19,E,1,12804,1.2649088877105434,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,19,E,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,evolved,19,E,3,11088,0.4964590534977668,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,20,K,1,12804,1.2995638929633504,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,20,K,2,15659,1.1902169813518508,Whole-chain activation with central peaks,Disorder
+gp8,evolved,20,K,3,11088,0.5140639919625914,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,21,M,1,12804,1.3168913955897539,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,21,M,2,15659,1.2026799950380596,Whole-chain activation with central peaks,Disorder
+gp8,evolved,21,M,3,11088,0.5492738688922406,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,22,L,1,12804,1.3168913955897539,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,22,L,2,15659,1.1777539676656423,Whole-chain activation with central peaks,Disorder
+gp8,evolved,22,L,3,11088,0.5211059739488427,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,23,N,1,12804,1.2995638929633504,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,23,N,2,15659,1.1715224608225379,Whole-chain activation with central peaks,Disorder
+gp8,evolved,23,N,3,11088,0.5211059739488427,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,24,F,1,12804,1.3082276941091808,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,24,F,2,15659,1.2151430087242683,Whole-chain activation with central peaks,Disorder
+gp8,evolved,24,F,3,11088,0.5457528613983113,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,25,Y,1,12804,1.3082276941091808,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,25,Y,2,15659,1.1839854745087466,Whole-chain activation with central peaks,Disorder
+gp8,evolved,25,Y,3,11088,0.531668930427416,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,26,N,1,12804,1.29090009181752,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,26,N,2,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,evolved,26,N,3,11088,0.48941710451312287,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,27,S,1,12804,1.2735725891911165,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,27,S,2,15659,1.1403649266070162,Whole-chain activation with central peaks,Disorder
+gp8,evolved,27,S,3,11088,0.5070220429779475,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,28,I,1,12804,1.29090009181752,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,28,I,2,15659,1.1465964334501204,Whole-chain activation with central peaks,Disorder
+gp8,evolved,28,I,3,11088,0.49293807900544484,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,29,G,1,12804,1.3082276941091808,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,29,G,2,15659,1.134133419763912,Whole-chain activation with central peaks,Disorder
+gp8,evolved,29,G,3,11088,0.49293807900544484,N-terminal assembly/attachment segment,Disorder
+gp8,evolved,30,S,1,12804,1.256245086564713,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,30,S,2,15659,1.0780499499183147,Whole-chain activation with central peaks,Disorder
+gp8,evolved,30,S,3,7070,0.47944913248423676,Phage tail attachment segments,Disorder
+gp8,evolved,31,G,1,12804,1.282236390336947,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,31,G,2,15659,1.1029758855483902,Whole-chain activation with central peaks,Disorder
+gp8,evolved,31,G,3,7070,0.48486665331341733,Phage tail attachment segments,Disorder
+gp8,evolved,32,P,1,12804,1.221590081311906,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,32,P,2,15659,1.0967443787052857,Whole-chain activation with central peaks,Disorder
+gp8,evolved,32,P,3,7070,0.5607117130333352,Phage tail attachment segments,Disorder
+gp8,evolved,33,D,1,12804,1.256245086564713,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,33,D,2,15659,1.1279019129208074,Whole-chain activation with central peaks,Disorder
+gp8,evolved,33,D,3,7070,0.4929929113683272,Phage tail attachment segments,Disorder
+gp8,evolved,34,K,1,12804,1.2042625786855023,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,34,K,2,15659,1.1029758855483902,Whole-chain activation with central peaks,Disorder
+gp8,evolved,34,K,3,7070,0.539041676094335,Phage tail attachment segments,Disorder
+gp8,evolved,35,N,1,12804,1.230253782792479,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,35,N,2,15659,1.1216704060777032,Whole-chain activation with central peaks,Disorder
+gp8,evolved,35,N,3,7070,0.5769642291431548,Phage tail attachment segments,Disorder
+gp8,evolved,36,T,1,12804,1.230253782792479,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,36,T,2,15659,1.1715224608225379,Whole-chain activation with central peaks,Disorder
+gp8,evolved,36,T,3,7070,0.5715467083139744,Phage tail attachment segments,Disorder
+gp8,evolved,37,I,1,12804,1.256245086564713,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,37,I,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,evolved,37,I,3,7070,0.5877992244237941,Phage tail attachment segments,Disorder
+gp8,evolved,38,F,1,12804,1.2475813850841397,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,38,F,2,15659,1.208911501881164,Whole-chain activation with central peaks,Disorder
+gp8,evolved,38,F,3,7070,0.606760477759343,Phage tail attachment segments,Disorder
+gp8,evolved,39,I,1,12804,1.1046293140021106,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,39,I,2,15659,1.0344294020165845,Whole-chain activation with central peaks,Disorder
+gp8,evolved,39,I,3,7070,0.5932167452529745,Phage tail attachment segments,Disorder
+gp8,evolved,40,T,1,12804,1.256245086564713,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,40,T,2,15659,1.1839854745087466,Whole-chain activation with central peaks,Disorder
+gp8,evolved,40,T,3,7070,0.6230129938691626,Phage tail attachment segments,Disorder
+gp8,evolved,41,F,1,12804,1.221590081311906,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,41,F,2,15659,1.1279019129208074,Whole-chain activation with central peaks,Disorder
+gp8,evolved,41,F,3,7070,0.6501005052596215,Phage tail attachment segments,Disorder
+gp8,evolved,42,G,1,12804,1.1955987775396721,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,42,G,2,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,evolved,42,G,3,7070,0.6203042566434334,Phage tail attachment segments,Disorder
+gp8,evolved,43,R,1,12804,1.1782712749132684,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,43,R,2,15659,1.1715224608225379,Whole-chain activation with central peaks,Disorder
+gp8,evolved,43,R,3,7070,0.6392655099789823,Phage tail attachment segments,Disorder
+gp8,evolved,44,S,1,12804,1.1955987775396721,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,44,S,2,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,evolved,44,S,3,7070,0.6392655099789823,Phage tail attachment segments,Disorder
+gp8,evolved,45,E,1,12804,1.2042625786855023,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,45,E,2,15659,1.2026799950380596,Whole-chain activation with central peaks,Disorder
+gp8,evolved,45,E,3,7070,0.6528092888630728,Phage tail attachment segments,Disorder
+gp8,evolved,46,P,1,12804,1.2129262801660756,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,46,P,2,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,evolved,46,P,3,7070,0.6501005052596215,Phage tail attachment segments,Disorder
+gp8,evolved,47,W,1,12804,1.230253782792479,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,47,W,2,15659,1.1590594471363291,Whole-chain activation with central peaks,Disorder
+gp8,evolved,47,W,3,7070,0.6446830308081629,Phage tail attachment segments,Disorder
+gp8,evolved,48,S,1,12804,1.2129262801660756,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,48,S,2,15659,1.1403649266070162,Whole-chain activation with central peaks,Disorder
+gp8,evolved,48,S,3,7070,0.6284305146983432,Phage tail attachment segments,Disorder
+gp8,evolved,49,S,1,12804,1.160943772286865,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,49,S,2,15659,1.0967443787052857,Whole-chain activation with central peaks,Disorder
+gp8,evolved,49,S,3,7070,0.6419742472047116,Phage tail attachment segments,Disorder
+gp8,evolved,50,N,1,12804,1.1522799711410348,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,50,N,2,15659,1.1465964334501204,Whole-chain activation with central peaks,Disorder
+gp8,evolved,50,N,3,7070,0.674479279424351,Phage tail attachment segments,Disorder
+gp8,evolved,51,E,1,12804,1.1436162696604615,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,51,E,2,15659,1.1154388992345987,Whole-chain activation with central peaks,Disorder
+gp8,evolved,51,E,3,7070,0.6853142747049902,Phage tail attachment segments,Disorder
+gp8,evolved,52,N,1,15659,1.1279019129208074,Whole-chain activation with central peaks,Disorder
+gp8,evolved,52,N,2,12804,1.1176249658882276,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,52,N,3,7070,0.6528092888630728,Phage tail attachment segments,Disorder
+gp8,evolved,53,E,1,12804,1.160943772286865,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,53,E,2,15659,1.1590594471363291,Whole-chain activation with central peaks,Disorder
+gp8,evolved,53,E,3,7070,0.6988580535890806,Phage tail attachment segments,Disorder
+gp8,evolved,54,V,1,12804,1.160943772286865,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,54,V,2,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,evolved,54,V,3,7070,0.6582267633145313,Phage tail attachment segments,Disorder
+gp8,evolved,55,G,1,12804,1.221590081311906,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,55,G,2,15659,1.1902169813518508,Whole-chain activation with central peaks,Disorder
+gp8,evolved,55,G,3,7070,0.6853142747049902,Phage tail attachment segments,Disorder
+gp8,evolved,56,F,1,12804,1.1782712749132684,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,56,F,2,15659,1.1715224608225379,Whole-chain activation with central peaks,Disorder
+gp8,evolved,56,F,3,7070,0.6501005052596215,Phage tail attachment segments,Disorder
+gp8,evolved,57,A,1,12804,1.1696074737674382,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,57,A,2,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,evolved,57,A,3,7070,0.6663530213694412,Phage tail attachment segments,Disorder
+gp8,evolved,58,P,1,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,evolved,58,P,2,12804,1.134952468514631,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,58,P,3,7070,0.7205280905280808,Phage tail attachment segments,Disorder
+gp8,evolved,59,P,1,15659,1.1902169813518508,Whole-chain activation with central peaks,Disorder
+gp8,evolved,59,P,2,12804,1.1869350760590989,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,59,P,3,7070,0.7205280905280808,Phage tail attachment segments,Disorder
+gp8,evolved,60,Y,1,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,evolved,60,Y,2,12804,1.1436162696604615,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,60,Y,3,7070,0.6934405327599,Phage tail attachment segments,Disorder
+gp8,evolved,61,P,1,15659,1.1839854745087466,Whole-chain activation with central peaks,Disorder
+gp8,evolved,61,P,2,12804,1.1782712749132684,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,61,P,3,7070,0.7259455649795394,Phage tail attachment segments,Disorder
+gp8,evolved,62,T,1,15659,1.1839854745087466,Whole-chain activation with central peaks,Disorder
+gp8,evolved,62,T,2,12804,1.1522799711410348,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,62,T,3,7070,0.7205280905280808,Phage tail attachment segments,Disorder
+gp8,evolved,63,D,1,15659,1.1902169813518508,Whole-chain activation with central peaks,Disorder
+gp8,evolved,63,D,2,12804,1.1782712749132684,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,63,D,3,7070,0.7313630858087199,Phage tail attachment segments,Disorder
+gp8,evolved,64,S,1,15659,1.208911501881164,Whole-chain activation with central peaks,Disorder
+gp8,evolved,64,S,2,12804,1.1869350760590989,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,64,S,3,7070,0.7530331227477202,Phage tail attachment segments,Disorder
+gp8,evolved,65,V,1,15659,1.1839854745087466,Whole-chain activation with central peaks,Disorder
+gp8,evolved,65,V,2,12804,1.1782712749132684,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,65,V,3,7070,0.7692855924798179,Phage tail attachment segments,Disorder
+gp8,evolved,66,L,1,15659,1.1777539676656423,Whole-chain activation with central peaks,Disorder
+gp8,evolved,66,L,2,12804,1.160943772286865,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,66,L,3,7070,0.7476156019185396,Phage tail attachment segments,Disorder
+gp8,evolved,67,G,1,15659,1.1777539676656423,Whole-chain activation with central peaks,Disorder
+gp8,evolved,67,G,2,12804,1.1696074737674382,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,67,G,3,7070,0.7747031133089984,Phage tail attachment segments,Disorder
+gp8,evolved,68,V,1,15659,1.1528279402932249,Whole-chain activation with central peaks,Disorder
+gp8,evolved,68,V,2,12804,1.1436162696604615,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,68,V,3,7070,0.7692855924798179,Phage tail attachment segments,Disorder
+gp8,evolved,69,T,1,15659,1.1403649266070162,Whole-chain activation with central peaks,Disorder
+gp8,evolved,69,T,2,12804,1.1176249658882276,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,69,T,3,7070,0.7801205877604571,Phage tail attachment segments,Disorder
+gp8,evolved,70,D,1,15659,1.1652909539794336,Whole-chain activation with central peaks,Disorder
+gp8,evolved,70,D,2,12804,1.1436162696604615,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,70,D,3,7070,0.7476156019185396,Phage tail attachment segments,Disorder
+gp8,evolved,71,M,1,15659,1.1216704060777032,Whole-chain activation with central peaks,Disorder
+gp8,evolved,71,M,2,12804,1.1176249658882276,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,71,M,3,7070,0.7638681180283593,Phage tail attachment segments,Disorder
+gp8,evolved,72,W,1,15659,1.0718184430752105,Whole-chain activation with central peaks,Disorder
+gp8,evolved,72,W,2,12804,1.0656423583437598,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,72,W,3,7070,0.8126256199800964,Phage tail attachment segments,Disorder
+gp8,evolved,73,T,1,12804,1.0743061594895902,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,73,T,2,15659,1.0344294020165845,Whole-chain activation with central peaks,Disorder
+gp8,evolved,73,T,3,7070,0.7096930488697197,Phage tail attachment segments,Disorder
+gp8,evolved,74,H,1,15659,1.1092073923914945,Whole-chain activation with central peaks,Disorder
+gp8,evolved,74,H,2,12804,1.1046293140021106,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,74,H,3,7070,0.7638681180283593,Phage tail attachment segments,Disorder
+gp8,evolved,75,M,1,12804,1.0786380102298767,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,75,M,2,15659,1.0780499499183147,Whole-chain activation with central peaks,Disorder
+gp8,evolved,75,M,3,7070,0.7909556294188181,Phage tail attachment segments,Disorder
+gp8,evolved,76,M,1,12804,1.0656423583437598,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,76,M,2,15659,1.0219663883303758,Whole-chain activation with central peaks,Disorder
+gp8,evolved,76,M,3,7070,0.7096930488697197,Phage tail attachment segments,Disorder
+gp8,evolved,77,G,1,15659,1.009503374644167,Whole-chain activation with central peaks,Disorder
+gp8,evolved,77,G,2,12804,1.0093279997242628,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,77,G,3,7070,0.7151105696989003,Phage tail attachment segments,Disorder
+gp8,evolved,78,T,1,15659,1.0344294020165845,Whole-chain activation with central peaks,Disorder
+gp8,evolved,78,T,2,12804,1.0049960493187189,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,78,T,3,7070,0.6934405327599,Phage tail attachment segments,Disorder
+gp8,evolved,79,V,1,15659,0.8412527816226918,Whole-chain activation with central peaks,Disorder
+gp8,evolved,79,V,2,12804,0.8317208735567979,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,79,V,3,7070,0.7151105696989003,Phage tail attachment segments,Disorder
+gp8,evolved,80,K,1,12804,0.9486816906992218,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,80,K,2,15659,0.9284938774261526,Whole-chain activation with central peaks,Disorder
+gp8,evolved,80,K,3,7070,0.6907317955341707,Phage tail attachment segments,Disorder
+gp8,evolved,81,V,1,15659,0.9160308637399439,Whole-chain activation with central peaks,Disorder
+gp8,evolved,81,V,2,12804,0.9053628843005844,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,81,V,3,7070,0.6907317955341707,Phage tail attachment segments,Disorder
+gp8,evolved,82,L,1,12804,0.8360527741297131,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,82,L,2,15659,0.8287898596788252,Whole-chain activation with central peaks,Disorder
+gp8,evolved,82,L,3,7070,0.7205280905280808,Phage tail attachment segments,Disorder
+gp8,evolved,83,P,1,12804,0.8533802767561166,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,83,P,2,15659,0.8474842884657962,Whole-chain activation with central peaks,Disorder
+gp8,evolved,83,P,3,7070,0.7096930488697197,Phage tail attachment segments,Disorder
+gp8,evolved,84,S,1,12804,0.7797383158449588,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,84,S,2,15659,0.7571275309831252,Whole-chain activation with central peaks,Disorder
+gp8,evolved,84,S,3,7070,0.6473917680338922,Phage tail attachment segments,Disorder
+gp8,evolved,85,M,1,15659,0.6480762529711414,Whole-chain activation with central peaks,Disorder
+gp8,evolved,85,M,2,12804,0.64545004590876,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,85,M,3,9903,0.6313684994625937,Extended assembly interface regions,Interaction site
+gp8,evolved,86,L,1,9903,0.5859463043713989,Extended assembly interface regions,Interaction site
+gp8,evolved,86,L,2,7070,0.5525854549784254,Phage tail attachment segments,Disorder
+gp8,evolved,86,L,3,12804,0.5263234030614501,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,87,D,1,12804,0.6757732502539091,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,87,D,2,15659,0.6605392666573501,Whole-chain activation with central peaks,Disorder
+gp8,evolved,87,D,3,9903,0.5950307679996657,Extended assembly interface regions,Interaction site
+gp8,evolved,88,A,1,15988,0.5622625058288896,Structural small-polar patches,Domain
+gp8,evolved,88,A,2,9903,0.5359819184827838,Extended assembly interface regions,Interaction site
+gp8,evolved,88,A,3,12804,0.4938342733461577,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,89,V,1,15988,0.6795690347221498,Structural small-polar patches,Domain
+gp8,evolved,89,V,2,9903,0.5109997050301196,Extended assembly interface regions,Interaction site
+gp8,evolved,89,V,3,7819,0.4085796543504177,Phage and viral structural proteins,Interaction site
+gp8,evolved,90,I,1,15988,0.6391185228941926,Structural small-polar patches,Domain
+gp8,evolved,90,I,2,9903,0.48601749157745555,Extended assembly interface regions,Interaction site
+gp8,evolved,90,I,3,7819,0.41648767041157786,Phage and viral structural proteins,Interaction site
+gp8,evolved,91,P,1,15988,0.6431635790316754,Structural small-polar patches,Domain
+gp8,evolved,91,P,2,9903,0.5314396866686504,Extended assembly interface regions,Interaction site
+gp8,evolved,91,P,3,7819,0.4085796543504177,Phage and viral structural proteins,Interaction site
+gp8,evolved,92,R,1,15988,0.6674338663097011,Structural small-polar patches,Domain
+gp8,evolved,92,R,2,9903,0.4633063735235017,Extended assembly interface regions,Interaction site
+gp8,evolved,92,R,3,7819,0.43230365732327547,Phage and viral structural proteins,Interaction site
+gp8,evolved,93,R,1,15988,0.6836140908596327,Structural small-polar patches,Domain
+gp8,evolved,93,R,2,3390,0.43332604885914666,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,93,R,3,7819,0.41648767041157786,Phage and viral structural proteins,Interaction site
+gp8,evolved,94,D,1,15988,0.699794315409564,Structural small-polar patches,Domain
+gp8,evolved,94,D,2,9903,0.43832420108755055,Extended assembly interface regions,Interaction site
+gp8,evolved,94,D,3,3390,0.41498417157159634,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,95,W,1,15988,0.703839371547047,Structural small-polar patches,Domain
+gp8,evolved,95,W,2,3390,0.470009712420434,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,95,W,3,5755,0.40379970523060893,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,96,G,1,15988,0.7523799956499698,Structural small-polar patches,Domain
+gp8,evolved,96,G,2,3390,0.4424969647494685,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,96,G,3,5755,0.40379970523060893,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,97,D,1,15988,0.6795690347221498,Structural small-polar patches,Domain
+gp8,evolved,97,D,2,3390,0.44937515166720987,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,97,D,3,5755,0.4297751391049982,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,98,T,1,15988,0.6593437540347354,Structural small-polar patches,Domain
+gp8,evolved,98,T,2,5755,0.42741374045275166,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,98,T,3,3390,0.41727690054417677,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,99,R,1,15988,0.6755239785846668,Structural small-polar patches,Domain
+gp8,evolved,99,R,2,3390,0.4631315255026926,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,99,R,3,5755,0.43922073371398435,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,100,Y,1,15988,0.6552987474441241,Structural small-polar patches,Domain
+gp8,evolved,100,Y,2,3390,0.5021079635434671,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,100,Y,3,5755,0.48408735680634596,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,101,P,1,15988,0.6148481860692954,Structural small-polar patches,Domain
+gp8,evolved,101,P,2,5755,0.5053399933762421,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,101,P,3,3390,0.44937515166720987,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,102,D,1,15988,0.6593437540347354,Structural small-polar patches,Domain
+gp8,evolved,102,D,2,5755,0.47936455950185286,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,102,D,3,14441,0.44800830775487355,Solvent exposed assembly segments,Domain
+gp8,evolved,103,P,1,15988,0.5905778492443982,Structural small-polar patches,Domain
+gp8,evolved,103,P,2,5755,0.49353295141533216,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,103,P,3,14441,0.43721290161568016,Solvent exposed assembly segments,Domain
+gp8,evolved,104,Y,1,15988,0.5420372251414752,Structural small-polar patches,Domain
+gp8,evolved,104,Y,2,5755,0.49353295141533216,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,104,Y,3,14441,0.4507071209840017,Solvent exposed assembly segments,Domain
+gp8,evolved,105,T,1,14441,0.5046840495315148,Solvent exposed assembly segments,Domain
+gp8,evolved,105,T,2,5755,0.4911715527630856,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,105,T,3,15988,0.41664053442637783,Structural small-polar patches,Domain
+gp8,evolved,106,F,1,5755,0.5572908124253434,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,106,F,2,14441,0.4669002046556783,Solvent exposed assembly segments,Domain
+gp8,evolved,106,F,3,3390,0.40352052670869404,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,107,R,1,5755,0.5360381758554472,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,107,R,2,14441,0.5208771332031914,Solvent exposed assembly segments,Domain
+gp8,evolved,107,R,3,15988,0.38428011009995067,Structural small-polar patches,Domain
+gp8,evolved,108,I,1,14441,0.49658750769567644,Solvent exposed assembly segments,Domain
+gp8,evolved,108,I,2,5755,0.4746417621973598,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,108,I,3,3390,0.40122779773611356,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,109,N,1,10592,0.478212557514066,Edge coil-to-beta transitions,Structural motif
+gp8,evolved,109,N,2,14441,0.39673024351071556,Solvent exposed assembly segments,Domain
+gp8,evolved,109,N,3,9634,0.35162215625654936,Viral capsid structural proteins,Disorder
+gp8,evolved,110,D,1,14441,0.5667574688406392,Solvent exposed assembly segments,Domain
+gp8,evolved,110,D,2,5755,0.49589435006757865,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,110,D,3,10592,0.4342052597415852,Edge coil-to-beta transitions,Structural motif
+gp8,evolved,111,I,1,14441,0.5748540106764776,Solvent exposed assembly segments,Domain
+gp8,evolved,111,I,2,5755,0.4510277269752171,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,111,I,3,10592,0.4166023574069269,Edge coil-to-beta transitions,Structural motif
+gp8,evolved,112,V,1,14441,0.5559621137756728,Solvent exposed assembly segments,Domain
+gp8,evolved,112,V,2,5755,0.3967154849240307,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,112,V,3,3390,0.34620227964072925,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,113,V,1,14441,0.5586609270048009,Solvent exposed assembly segments,Domain
+gp8,evolved,113,V,2,5755,0.5147855879852283,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,113,V,3,6332,0.41398740564693126,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,114,C,1,14441,0.48849096585983814,Solvent exposed assembly segments,Domain
+gp8,evolved,114,C,2,5755,0.45338912562746364,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,114,C,3,6332,0.39415565453311335,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,115,N,1,14441,0.5073829138348699,Solvent exposed assembly segments,Domain
+gp8,evolved,115,N,2,5755,0.48881015411083906,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,115,N,3,6332,0.3916766970397152,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,116,S,1,5755,0.5195083852897214,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,116,S,2,14441,0.48849096585983814,Solvent exposed assembly segments,Domain
+gp8,evolved,116,S,3,6332,0.3693659884324991,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,117,A,1,14441,0.4722978821881615,Solvent exposed assembly segments,Domain
+gp8,evolved,117,A,2,5755,0.4651961675883736,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,117,A,3,6332,0.42886119619063656,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,118,P,1,14441,0.47499674649151663,Solvent exposed assembly segments,Domain
+gp8,evolved,118,P,2,5755,0.47228036354511327,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,118,P,3,6332,0.3966346120265115,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,119,Y,1,5755,0.5549294137730968,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,119,Y,2,14441,0.49388864339232136,Solvent exposed assembly segments,Domain
+gp8,evolved,119,Y,3,6332,0.4586087772780471,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,120,N,1,14441,0.48309328832735493,Solvent exposed assembly segments,Domain
+gp8,evolved,120,N,2,5755,0.44866632832297054,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,120,N,3,6332,0.40407153009002234,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,121,A,1,5755,0.5053399933762421,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,121,A,2,14441,0.4642013914265502,Solvent exposed assembly segments,Domain
+gp8,evolved,121,A,3,6332,0.3768029064960099,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,122,T,1,14441,0.47499674649151663,Solvent exposed assembly segments,Domain
+gp8,evolved,122,T,2,5755,0.4203294957963347,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,122,T,3,6332,0.3420973648384867,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,123,E,1,14441,0.45340598528735676,Solvent exposed assembly segments,Domain
+gp8,evolved,123,E,2,5755,0.4014383065783624,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,123,E,3,6332,0.38919773954631703,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,124,S,1,5755,0.4864487554585925,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,124,S,2,14441,0.4722978821881615,Solvent exposed assembly segments,Domain
+gp8,evolved,124,S,3,3390,0.36454413417482623,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,125,G,1,5755,0.6045188341699514,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,125,G,2,14441,0.5775528749798327,Solvent exposed assembly segments,Domain
+gp8,evolved,125,G,3,3390,0.37600777903772853,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,126,A,1,5755,0.576182050342993,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,126,A,2,14441,0.5721551974473494,Solvent exposed assembly segments,Domain
+gp8,evolved,126,A,3,3390,0.38059323698288944,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,127,G,1,5755,0.6517469046142369,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,127,G,2,14441,0.5154794045964812,Solvent exposed assembly segments,Domain
+gp8,evolved,127,G,3,6332,0.42142427812712574,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,128,W,1,5755,0.6517469046142369,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,128,W,2,14441,0.6072401780198308,Solvent exposed assembly segments,Domain
+gp8,evolved,128,W,3,6332,0.48339844337866134,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,129,L,1,5755,0.6375784640010804,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,129,L,2,14441,0.5721551974473494,Solvent exposed assembly segments,Domain
+gp8,evolved,129,L,3,6332,0.478440528391865,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,130,V,1,5755,0.6045188341699514,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,130,V,2,14441,0.5262748107356746,Solvent exposed assembly segments,Domain
+gp8,evolved,130,V,3,6332,0.39415565453311335,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,131,Y,1,5755,0.564375008382083,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,131,Y,2,6332,0.3768029064960099,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,131,Y,3,14441,0.3508498823361543,Solvent exposed assembly segments,Domain
+gp8,evolved,132,R,1,14441,0.6531205136572786,Solvent exposed assembly segments,Domain
+gp8,evolved,132,R,2,5755,0.5667364070343295,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,132,R,3,6332,0.3867187820529189,Extracatalytic beta-sheet regional activation,Compositional bias
+gp8,evolved,133,C,1,5127,0.31268287263161576,Nucleic acid beta-strand hotspots,Ligand-binding site
+gp8,evolved,133,C,2,14441,0.27258335381823967,Solvent exposed assembly segments,Domain
+gp8,evolved,133,C,3,4021,0.25942376739577,Extracellular glycan recognition modules,Domain
+gp8,evolved,134,L,1,14441,0.5910470943481542,Solvent exposed assembly segments,Domain
+gp8,evolved,134,L,2,5755,0.5454838191641106,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,134,L,3,3390,0.41039871362643543,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,135,D,1,5755,0.576182050342993,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,135,D,2,14441,0.5208771332031914,Solvent exposed assembly segments,Domain
+gp8,evolved,135,D,3,3390,0.4975225055983062,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,136,V,1,5755,0.5454838191641106,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,136,V,2,3390,0.5227425242966912,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,136,V,3,14441,0.5127805913673531,Solvent exposed assembly segments,Domain
+gp8,evolved,137,P,1,3390,0.5502552719676567,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,137,P,2,5755,0.5478452178163572,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,137,P,3,14441,0.5046840495315148,Solvent exposed assembly segments,Domain
+gp8,evolved,138,D,1,3390,0.6373790184326208,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,138,D,2,5755,0.5478452178163572,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,138,D,3,14441,0.5397690301039961,Solvent exposed assembly segments,Domain
+gp8,evolved,139,T,1,3390,0.5961098969261726,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,139,T,2,5755,0.5006171473720717,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,139,T,3,14441,0.49388864339232136,Solvent exposed assembly segments,Domain
+gp8,evolved,140,G,1,3390,0.5479625429950763,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,140,G,2,5755,0.5029785947239956,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,140,G,3,14441,0.4561048495907119,Solvent exposed assembly segments,Domain
+gp8,evolved,141,M,1,14441,0.4291163597798418,Solvent exposed assembly segments,Domain
+gp8,evolved,141,M,2,5755,0.40852250253510203,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,141,M,3,3390,0.33015317683266604,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,142,C,1,12486,0.4276520505497272,Extracellular disulfide-bonded repeats,Domain
+gp8,evolved,142,C,2,14441,0.3670429404707174,Solvent exposed assembly segments,Domain
+gp8,evolved,142,C,3,5755,0.3376804455683512,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,143,S,1,14441,0.4992863719990316,Solvent exposed assembly segments,Domain
+gp8,evolved,143,S,2,5755,0.3612944564406552,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,143,S,3,12275,0.338285117516147,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,144,I,1,14441,0.4669002046556783,Solvent exposed assembly segments,Domain
+gp8,evolved,144,I,2,5755,0.3967154849240307,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,144,I,3,3390,0.286591303600184,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,145,A,1,14441,0.4561048495907119,Solvent exposed assembly segments,Domain
+gp8,evolved,145,A,2,5755,0.3683786767472335,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,145,A,3,12275,0.28076294799913004,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,146,S,1,14441,0.48579215263071,Solvent exposed assembly segments,Domain
+gp8,evolved,146,S,2,5755,0.4132452998395951,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,146,S,3,12856,0.362403667286086,EGF C2–C3 loop motif,Structural motif
+gp8,evolved,147,L,1,14441,0.4561048495907119,Solvent exposed assembly segments,Domain
+gp8,evolved,147,L,2,5755,0.43922073371398435,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,147,L,3,12275,0.34650258482331414,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,148,T,1,14441,0.4695990689590334,Solvent exposed assembly segments,Domain
+gp8,evolved,148,T,2,5755,0.3801856700084662,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,148,T,3,12275,0.3492417202657392,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,149,N,1,14441,0.510081727063998,Solvent exposed assembly segments,Domain
+gp8,evolved,149,N,2,5755,0.42269089444858127,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,149,N,3,12275,0.3560895995250632,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,150,K,1,14441,0.4669002046556783,Solvent exposed assembly segments,Domain
+gp8,evolved,150,K,2,5755,0.34476466587492943,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,150,K,3,12275,0.31774150006480567,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,151,D,1,14441,0.44261063022239033,Solvent exposed assembly segments,Domain
+gp8,evolved,151,D,2,5755,0.3731014740517266,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,151,D,3,12275,0.31637191201696246,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,152,E,1,14441,0.49658750769567644,Solvent exposed assembly segments,Domain
+gp8,evolved,152,E,2,12275,0.41361176904208014,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,152,E,3,5755,0.3636558794427404,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,153,C,1,4021,0.5426115558131089,Extracellular glycan recognition modules,Domain
+gp8,evolved,153,C,2,14441,0.3036200890099154,Solvent exposed assembly segments,Domain
+gp8,evolved,153,C,3,12467,0.19325285067793918,Subunit assembly interface belts,Interaction site
+gp8,evolved,154,L,1,14441,0.49388864339232136,Solvent exposed assembly segments,Domain
+gp8,evolved,154,L,2,5755,0.40852250253510203,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,154,L,3,12275,0.3834811165623591,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,155,K,1,14441,0.44800830775487355,Solvent exposed assembly segments,Domain
+gp8,evolved,155,K,2,5755,0.4014383065783624,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,155,K,3,12275,0.3560895995250632,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,156,L,1,12275,0.41087263359965503,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,156,L,2,14441,0.3778383210727973,Solvent exposed assembly segments,Domain
+gp8,evolved,156,L,3,5755,0.34476466587492943,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,157,G,1,12275,0.4081334575039687,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,157,G,2,14441,0.40752562411279547,Solvent exposed assembly segments,Domain
+gp8,evolved,157,G,3,5755,0.38490849166279795,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,158,G,1,12275,0.4820905209820586,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,158,G,2,14441,0.3805371598390389,Solvent exposed assembly segments,Domain
+gp8,evolved,158,G,3,5755,0.328234850959365,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,159,K,1,12275,0.4273075275607281,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,159,K,2,14441,0.4183210047148754,Solvent exposed assembly segments,Domain
+gp8,evolved,159,K,3,4025,0.3200780605461158,Extracellular Cys–Trp disulfide-loop motif,Sequence motif
+gp8,evolved,160,W,1,4025,0.7338375242820426,Extracellular Cys–Trp disulfide-loop motif,Sequence motif
+gp8,evolved,160,W,2,12275,0.5779608306125944,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,160,W,3,14441,0.43451408838655203,Solvent exposed assembly segments,Domain
+gp8,evolved,161,T,1,12275,0.5094820380193545,Extracellular Cys-rich ectodomains,Post-translational modification
+gp8,evolved,161,T,2,14441,0.4695990689590334,Solvent exposed assembly segments,Domain
+gp8,evolved,161,T,3,4025,0.3669187621410213,Extracellular Cys–Trp disulfide-loop motif,Sequence motif
+gp8,evolved,162,P,1,3390,0.5044006925160476,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,162,P,2,14441,0.48579215263071,Solvent exposed assembly segments,Domain
+gp8,evolved,162,P,3,14938,0.44585362686573693,Small/polar beta-strand repeats,Domain
+gp8,evolved,163,S,1,3390,0.5915244389810116,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,163,S,2,14938,0.4589030130354993,Small/polar beta-strand repeats,Domain
+gp8,evolved,163,S,3,14441,0.4507071209840017,Solvent exposed assembly segments,Domain
+gp8,evolved,164,V,1,3390,0.7245027648975849,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,164,V,2,14938,0.5067507452777706,Small/polar beta-strand repeats,Domain
+gp8,evolved,164,V,3,5755,0.4344979364094913,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,165,R,1,3390,0.7290882683496525,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,165,R,2,14938,0.5524235201610818,Small/polar beta-strand repeats,Domain
+gp8,evolved,165,R,3,5755,0.43922073371398435,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,166,S,1,3390,0.7611864739657789,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,166,S,2,14938,0.5698227187676219,Small/polar beta-strand repeats,Domain
+gp8,evolved,166,S,3,5755,0.46047332158420323,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,167,M,1,3390,0.8207974272528709,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,167,M,2,14938,0.604621064840131,Small/polar beta-strand repeats,Domain
+gp8,evolved,167,M,3,5755,0.4817259581540994,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,168,T,1,3390,0.7703573898561007,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,168,T,2,14938,0.565472906330844,Small/polar beta-strand repeats,Domain
+gp8,evolved,168,T,3,5755,0.4415821323662309,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,169,P,1,3390,0.8253828851980317,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,169,P,2,14938,0.6437691722088467,Small/polar beta-strand repeats,Domain
+gp8,evolved,169,P,3,5755,0.4651961675883736,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,170,P,1,3390,0.8712375556634543,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,170,P,2,14938,0.6263700247428777,Small/polar beta-strand repeats,Domain
+gp8,evolved,170,P,3,5755,0.48881015411083906,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,171,E,1,3390,0.756601016020618,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,171,E,2,14938,0.6176703998693219,Small/polar beta-strand repeats,Domain
+gp8,evolved,171,E,3,10881,0.43277083639913255,Bacterial extracellular surface segments,Disorder
+gp8,evolved,172,G,1,3390,0.8437248079924887,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,172,G,2,14938,0.6568185583786089,Small/polar beta-strand repeats,Domain
+gp8,evolved,172,G,3,5755,0.4770031608496063,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,173,R,1,3390,0.8391392590335145,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,173,R,2,14938,0.6220202123060998,Small/polar beta-strand repeats,Domain
+gp8,evolved,173,R,3,5755,0.4628347202364498,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,174,G,1,3390,0.8574811818279715,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,174,G,2,14938,0.6176703998693219,Small/polar beta-strand repeats,Domain
+gp8,evolved,174,G,3,5755,0.46047332158420323,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,175,D,1,3390,0.8620666397731325,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,175,D,2,14938,0.6307197860390843,Small/polar beta-strand repeats,Domain
+gp8,evolved,175,D,3,5755,0.4415821323662309,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,176,A,1,3390,0.8437248079924887,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,176,A,2,14938,0.6133206385731155,Small/polar beta-strand repeats,Domain
+gp8,evolved,176,A,3,5755,0.4651961675883736,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,177,E,1,3390,0.8483102659376497,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,177,E,2,14938,0.6176703998693219,Small/polar beta-strand repeats,Domain
+gp8,evolved,177,E,3,5755,0.4557505242797102,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,178,G,1,3390,0.8987503033344197,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,178,G,2,14938,0.6611683196748155,Small/polar beta-strand repeats,Domain
+gp8,evolved,178,G,3,5755,0.4770031608496063,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,179,T,1,3390,0.8345538010883535,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,179,T,2,14938,0.6220202123060998,Small/polar beta-strand repeats,Domain
+gp8,evolved,179,T,3,5755,0.43922073371398435,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,180,I,1,3390,0.8483102659376497,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,180,I,2,14938,0.6437691722088467,Small/polar beta-strand repeats,Domain
+gp8,evolved,180,I,3,5755,0.48408735680634596,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,181,E,1,3390,0.8804084715537761,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,181,E,2,14938,0.6437691722088467,Small/polar beta-strand repeats,Domain
+gp8,evolved,181,E,3,5755,0.47936455950185286,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,182,P,1,3390,0.8712375556634543,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,182,P,2,14938,0.6785675182813556,Small/polar beta-strand repeats,Domain
+gp8,evolved,182,P,3,5755,0.4770031608496063,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,183,G,1,3390,0.9079212192247416,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,183,G,2,14938,0.6611683196748155,Small/polar beta-strand repeats,Domain
+gp8,evolved,183,G,3,5755,0.47936455950185286,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,184,D,1,3390,0.8437248079924887,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,184,D,2,14938,0.6394193597720688,Small/polar beta-strand repeats,Domain
+gp8,evolved,184,D,3,5755,0.42741374045275166,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,185,G,1,3390,0.8483102659376497,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,185,G,2,14938,0.6785675182813556,Small/polar beta-strand repeats,Domain
+gp8,evolved,185,G,3,5059,0.4817611018489242,Focal activation on structured segments,Disorder
+gp8,evolved,186,Y,1,3390,0.9216775930602243,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,186,Y,2,14938,0.6307197860390843,Small/polar beta-strand repeats,Domain
+gp8,evolved,186,Y,3,5059,0.48783372304240014,Focal activation on structured segments,Disorder
+gp8,evolved,187,V,1,3390,0.8712375556634543,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,187,V,2,14938,0.6133206385731155,Small/polar beta-strand repeats,Domain
+gp8,evolved,187,V,3,7819,0.4349396626769955,Phage and viral structural proteins,Interaction site
+gp8,evolved,188,W,1,3390,0.8895793874440979,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,188,W,2,14938,0.6481189846456245,Small/polar beta-strand repeats,Domain
+gp8,evolved,188,W,3,5755,0.45338912562746364,Surface-exposed ligand-binding regions,Ligand-binding site
+gp8,evolved,189,E,1,3390,0.8391392590335145,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,189,E,2,14938,0.6394193597720688,Small/polar beta-strand repeats,Domain
+gp8,evolved,189,E,3,7819,0.46657163650039074,Phage and viral structural proteins,Interaction site
+gp8,evolved,190,Y,1,3390,0.8712375556634543,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,190,Y,2,14938,0.6394193597720688,Small/polar beta-strand repeats,Domain
+gp8,evolved,190,Y,3,5059,0.47366430622735023,Focal activation on structured segments,Disorder
+gp8,evolved,191,L,1,3390,0.8070410534173881,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,191,L,2,14938,0.6611683196748155,Small/polar beta-strand repeats,Domain
+gp8,evolved,191,L,3,7819,0.524563573439741,Phage and viral structural proteins,Interaction site
+gp8,evolved,192,F,1,3390,0.8207974272528709,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,192,F,2,14938,0.6307197860390843,Small/polar beta-strand repeats,Domain
+gp8,evolved,192,F,3,5059,0.4777127040381372,Focal activation on structured segments,Disorder
+gp8,evolved,193,E,1,3390,0.7290882683496525,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,193,E,2,14938,0.6176703998693219,Small/polar beta-strand repeats,Domain
+gp8,evolved,193,E,3,7819,0.5166555573785809,Phage and viral structural proteins,Interaction site
+gp8,evolved,194,I,1,3390,0.6740627275008149,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,194,I,2,14938,0.6307197860390843,Small/polar beta-strand repeats,Domain
+gp8,evolved,194,I,3,7819,0.4850235835551857,Phage and viral structural proteins,Interaction site
+gp8,evolved,195,P,1,3390,0.6327935604874599,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,195,P,2,14938,0.6089708261363376,Small/polar beta-strand repeats,Domain
+gp8,evolved,195,P,3,7819,0.5324715442902785,Phage and viral structural proteins,Interaction site
+gp8,evolved,196,P,1,3390,0.628208102542299,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,196,P,2,14938,0.6176703998693219,Small/polar beta-strand repeats,Domain
+gp8,evolved,196,P,3,7819,0.5403795603514386,Phage and viral structural proteins,Interaction site
+gp8,evolved,197,D,1,14938,0.5567733325978597,Small/polar beta-strand repeats,Domain
+gp8,evolved,197,D,2,7819,0.5324715442902785,Phage and viral structural proteins,Interaction site
+gp8,evolved,197,D,3,3390,0.495229731118819,Trp-rich polymer-binding modules,Ligand-binding site
+gp8,evolved,198,V,1,14938,0.5111005065739772,Small/polar beta-strand repeats,Domain
+gp8,evolved,198,V,2,12804,0.5046639998621314,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,198,V,3,7819,0.46657163650039074,Phage and viral structural proteins,Interaction site
+gp8,evolved,199,S,1,14938,0.5241498927437395,Small/polar beta-strand repeats,Domain
+gp8,evolved,199,S,2,7819,0.5192915627323009,Phage and viral structural proteins,Interaction site
+gp8,evolved,199,S,3,12804,0.472174870146839,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,200,I,1,12804,0.6324544438552717,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,200,I,2,15659,0.5919927372543733,Whole-chain activation with central peaks,Disorder
+gp8,evolved,200,I,3,14938,0.4915264528896194,Small/polar beta-strand repeats,Domain
+gp8,evolved,201,N,1,12804,0.6714413496809939,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,201,N,2,15659,0.6449604995495891,Whole-chain activation with central peaks,Disorder
+gp8,evolved,201,N,3,14938,0.47847706671985707,Small/polar beta-strand repeats,Domain
+gp8,evolved,202,R,1,12804,0.797065868303991,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,202,R,2,15659,0.732201549481879,Whole-chain activation with central peaks,Disorder
+gp8,evolved,202,R,3,7819,0.44548363888125303,Phage and viral structural proteins,Interaction site
+gp8,evolved,203,C,1,12804,0.7927339677310757,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,203,C,2,15659,0.769590544669334,Whole-chain activation with central peaks,Disorder
+gp8,evolved,203,C,3,7819,0.4639356311466707,Phage and viral structural proteins,Interaction site
+gp8,evolved,204,T,1,12804,0.8230571222435962,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,204,T,2,15659,0.7789378049339905,Whole-chain activation with central peaks,Disorder
+gp8,evolved,204,T,3,7819,0.44548363888125303,Phage and viral structural proteins,Interaction site
+gp8,evolved,205,N,1,12804,0.9053628843005844,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,205,N,2,15659,0.8661788089951092,Whole-chain activation with central peaks,Disorder
+gp8,evolved,205,N,3,7819,0.42703164661583537,Phage and viral structural proteins,Interaction site
+gp8,evolved,206,E,1,12804,0.8793715805283505,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,206,E,2,15659,0.8474842884657962,Whole-chain activation with central peaks,Disorder
+gp8,evolved,206,E,3,7819,0.44548363888125303,Phage and viral structural proteins,Interaction site
+gp8,evolved,207,Y,1,12804,0.862044077901947,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,207,Y,2,15659,0.8474842884657962,Whole-chain activation with central peaks,Disorder
+gp8,evolved,207,Y,3,7819,0.4797516180583683,Phage and viral structural proteins,Interaction site
+gp8,evolved,208,I,1,15659,0.972114333585541,Whole-chain activation with central peaks,Disorder
+gp8,evolved,208,I,2,12804,0.9703410440659119,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,208,I,3,7070,0.47132287442932697,Phage tail attachment segments,Disorder
+gp8,evolved,209,V,1,15659,0.9409568911123614,Whole-chain activation with central peaks,Disorder
+gp8,evolved,209,V,2,12804,0.909694735040871,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,209,V,3,7070,0.4686141372035976,Phage tail attachment segments,Disorder
+gp8,evolved,210,V,1,15659,0.9596514116416743,Whole-chain activation with central peaks,Disorder
+gp8,evolved,210,V,2,12804,0.9486816906992218,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,210,V,3,7070,0.49841038581978575,Phage tail attachment segments,Disorder
+gp8,evolved,211,P,1,12804,0.9616772429200815,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,211,P,2,15659,0.9160308637399439,Whole-chain activation with central peaks,Disorder
+gp8,evolved,211,P,3,7070,0.4631966163744171,Phage tail attachment segments,Disorder
+gp8,evolved,212,W,1,12804,0.9963323478381458,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,212,W,2,15659,0.95341990479857,Whole-chain activation with central peaks,Disorder
+gp8,evolved,212,W,3,7070,0.4659053536001464,Phage tail attachment segments,Disorder
+gp8,evolved,213,P,1,12804,0.9660091933256253,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,213,P,2,15659,0.9596514116416743,Whole-chain activation with central peaks,Disorder
+gp8,evolved,213,P,3,7070,0.48486665331341733,Phage tail attachment segments,Disorder
+gp8,evolved,214,E,1,12804,0.9530135414395083,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,214,E,2,15659,0.9284938774261526,Whole-chain activation with central peaks,Disorder
+gp8,evolved,214,E,3,7070,0.4821578697099661,Phage tail attachment segments,Disorder
+gp8,evolved,215,E,1,12804,0.9746728948061985,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,215,E,2,15659,0.972114333585541,Whole-chain activation with central peaks,Disorder
+gp8,evolved,215,E,3,7070,0.4875753905391466,Phage tail attachment segments,Disorder
+gp8,evolved,216,L,1,12804,0.9833366959520289,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,216,L,2,15659,0.9471883979554657,Whole-chain activation with central peaks,Disorder
+gp8,evolved,216,L,3,7070,0.5309154180394251,Phage tail attachment segments,Disorder
+gp8,evolved,217,K,1,15659,0.95341990479857,Whole-chain activation with central peaks,Disorder
+gp8,evolved,217,K,2,12804,0.944349740293678,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,217,K,3,7070,0.49028412776487595,Phage tail attachment segments,Disorder
+gp8,evolved,218,E,1,15659,0.9471883979554657,Whole-chain activation with central peaks,Disorder
+gp8,evolved,218,E,2,12804,0.9313540884075611,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,218,E,3,7070,0.49028412776487595,Phage tail attachment segments,Disorder
+gp8,evolved,219,D,1,15659,0.9783458404286454,Whole-chain activation with central peaks,Disorder
+gp8,evolved,219,D,2,12804,0.9486816906992218,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,219,D,3,7070,0.5471679341492448,Phage tail attachment segments,Disorder
+gp8,evolved,220,P,1,15659,0.972114333585541,Whole-chain activation with central peaks,Disorder
+gp8,evolved,220,P,2,12804,0.957345392179795,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,220,P,3,7070,0.5092454274781468,Phage tail attachment segments,Disorder
+gp8,evolved,221,T,1,15659,0.9783458404286454,Whole-chain activation with central peaks,Disorder
+gp8,evolved,221,T,2,12804,0.9616772429200815,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,221,T,3,7070,0.47403161165505625,Phage tail attachment segments,Disorder
+gp8,evolved,222,R,1,15659,0.934725384269257,Whole-chain activation with central peaks,Disorder
+gp8,evolved,222,R,2,12804,0.9226903869269879,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,222,R,3,7070,0.520080422758786,Phage tail attachment segments,Disorder
+gp8,evolved,223,W,1,12804,0.9746728948061985,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,223,W,2,15659,0.95341990479857,Whole-chain activation with central peaks,Disorder
+gp8,evolved,223,W,3,7070,0.5092454274781468,Phage tail attachment segments,Disorder
+gp8,evolved,224,G,1,15659,0.9409568911123614,Whole-chain activation with central peaks,Disorder
+gp8,evolved,224,G,2,12804,0.9183585361867014,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,224,G,3,7070,0.5119541647038761,Phage tail attachment segments,Disorder
+gp8,evolved,225,Y,1,15659,0.9596514116416743,Whole-chain activation with central peaks,Disorder
+gp8,evolved,225,Y,2,12804,0.9183585361867014,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,225,Y,3,7070,0.5363329388686057,Phage tail attachment segments,Disorder
+gp8,evolved,226,E,1,15659,0.972114333585541,Whole-chain activation with central peaks,Disorder
+gp8,evolved,226,E,2,12804,0.896699083154754,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,226,E,3,7070,0.5363329388686057,Phage tail attachment segments,Disorder
+gp8,evolved,227,D,1,15659,0.9222623705830483,Whole-chain activation with central peaks,Disorder
+gp8,evolved,227,D,2,12804,0.862044077901947,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,227,D,3,7070,0.4875753905391466,Phage tail attachment segments,Disorder
+gp8,evolved,228,N,1,15659,0.9596514116416743,Whole-chain activation with central peaks,Disorder
+gp8,evolved,228,N,2,12804,0.8880352820089237,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,228,N,3,7070,0.5065366438746957,Phage tail attachment segments,Disorder
+gp8,evolved,229,L,1,15659,0.9222623705830483,Whole-chain activation with central peaks,Disorder
+gp8,evolved,229,L,2,12804,0.8577121274964032,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,229,L,3,7070,0.5092454274781468,Phage tail attachment segments,Disorder
+gp8,evolved,230,T,1,15659,0.9035678500537353,Whole-chain activation with central peaks,Disorder
+gp8,evolved,230,T,2,12804,0.8057296196171927,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,230,T,3,7070,0.47403161165505625,Phage tail attachment segments,Disorder
+gp8,evolved,231,W,1,15659,0.9409568911123614,Whole-chain activation with central peaks,Disorder
+gp8,evolved,231,W,2,12804,0.8360527741297131,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,231,W,3,7070,0.5309154180394251,Phage tail attachment segments,Disorder
+gp8,evolved,232,Q,1,15659,0.8537157953089005,Whole-chain activation with central peaks,Disorder
+gp8,evolved,232,Q,2,12804,0.771074564531757,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,232,Q,3,7070,0.5227891599845153,Phage tail attachment segments,Disorder
+gp8,evolved,233,Q,1,15659,0.8786418226813179,Whole-chain activation with central peaks,Disorder
+gp8,evolved,233,Q,2,12804,0.7624108132185553,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,233,Q,3,7070,0.5634204502590645,Phage tail attachment segments,Disorder
+gp8,evolved,234,D,1,15659,0.8973363432106309,Whole-chain activation with central peaks,Disorder
+gp8,evolved,234,D,2,12804,0.7494151613324384,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,234,D,3,7070,0.5444591969235155,Phage tail attachment segments,Disorder
+gp8,evolved,235,D,1,15659,0.8786418226813179,Whole-chain activation with central peaks,Disorder
+gp8,evolved,235,D,2,12804,0.7147601560796313,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,235,D,3,7070,0.49841038581978575,Phage tail attachment segments,Disorder
+gp8,evolved,236,F,1,15659,0.8848733295244222,Whole-chain activation with central peaks,Disorder
+gp8,evolved,236,F,2,12804,0.7190920068199179,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,236,F,3,7070,0.49028412776487595,Phage tail attachment segments,Disorder
+gp8,evolved,237,G,1,15659,0.9097993568968397,Whole-chain activation with central peaks,Disorder
+gp8,evolved,237,G,2,12804,0.7277557581331197,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,237,G,3,7070,0.47132287442932697,Phage tail attachment segments,Disorder
+gp8,evolved,238,L,1,15659,0.8038638323064079,Whole-chain activation with central peaks,Disorder
+gp8,evolved,238,L,2,12804,0.6584456977948769,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,238,L,3,7070,0.47132287442932697,Phage tail attachment segments,Disorder
+gp8,evolved,239,I,1,15659,0.8661788089951092,Whole-chain activation with central peaks,Disorder
+gp8,evolved,239,I,2,12804,0.6541138470545904,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,239,I,3,7070,0.4171478516484093,Phage tail attachment segments,Disorder
+gp8,evolved,240,Y,1,15659,0.7540117775615731,Whole-chain activation with central peaks,Disorder
+gp8,evolved,240,Y,2,12804,0.6237906925420699,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,240,Y,3,7070,0.5146629019296055,Phage tail attachment segments,Disorder
+gp8,evolved,241,R,1,15659,0.8474842884657962,Whole-chain activation with central peaks,Disorder
+gp8,evolved,241,R,2,12804,0.6887688523073974,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,241,R,3,7070,0.45507035831950726,Phage tail attachment segments,Disorder
+gp8,evolved,242,V,1,15659,0.8350212747795875,Whole-chain activation with central peaks,Disorder
+gp8,evolved,242,V,2,12804,0.6237906925420699,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,242,V,3,7070,0.520080422758786,Phage tail attachment segments,Disorder
+gp8,evolved,243,K,1,15659,0.732201549481879,Whole-chain activation with central peaks,Disorder
+gp8,evolved,243,K,2,12804,0.6021312893427512,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,243,K,3,7070,0.5282066808136958,Phage tail attachment segments,Disorder
+gp8,evolved,244,A,1,15659,0.8100953391495122,Whole-chain activation with central peaks,Disorder
+gp8,evolved,244,A,2,12804,0.5674762342573155,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,244,A,3,7070,0.4767403952585075,Phage tail attachment segments,Disorder
+gp8,evolved,245,N,1,15659,0.7010440152663572,Whole-chain activation with central peaks,Disorder
+gp8,evolved,245,N,2,7070,0.5525854549784254,Phage tail attachment segments,Disorder
+gp8,evolved,245,N,3,12804,0.472174870146839,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,246,T,1,15659,0.732201549481879,Whole-chain activation with central peaks,Disorder
+gp8,evolved,246,T,2,7070,0.4767403952585075,Phage tail attachment segments,Disorder
+gp8,evolved,246,T,3,12804,0.46351111883363727,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,247,I,1,15659,0.6387289927064849,Whole-chain activation with central peaks,Disorder
+gp8,evolved,247,I,2,7070,0.49841038581978575,Phage tail attachment segments,Disorder
+gp8,evolved,247,I,3,12804,0.4071966854651972,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,248,R,1,15659,0.732201549481879,Whole-chain activation with central peaks,Disorder
+gp8,evolved,248,R,2,7070,0.48486665331341733,Phage tail attachment segments,Disorder
+gp8,evolved,248,R,3,12804,0.4353538896912601,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,249,F,1,15659,0.5982242440974777,Whole-chain activation with central peaks,Disorder
+gp8,evolved,249,F,2,7070,0.5092454274781468,Phage tail attachment segments,Disorder
+gp8,evolved,249,F,3,12804,0.37903948123913433,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,250,K,1,15659,0.732201549481879,Whole-chain activation with central peaks,Disorder
+gp8,evolved,250,K,2,7070,0.5525854549784254,Phage tail attachment segments,Disorder
+gp8,evolved,250,K,3,12804,0.39636698386553787,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,251,A,1,15659,0.6293817324418283,Whole-chain activation with central peaks,Disorder
+gp8,evolved,251,A,2,7070,0.47403161165505625,Phage tail attachment segments,Disorder
+gp8,evolved,251,A,3,14110,0.4086748503122067,Proteolytic maturation domain hotspots,Post-translational modification
+gp8,evolved,252,Y,1,15659,0.6667707735004543,Whole-chain activation with central peaks,Disorder
+gp8,evolved,252,Y,2,7070,0.5146629019296055,Phage tail attachment segments,Disorder
+gp8,evolved,252,Y,3,12804,0.37254165529607586,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,253,L,1,15659,0.6543077598142457,Whole-chain activation with central peaks,Disorder
+gp8,evolved,253,L,2,7070,0.4686141372035976,Phage tail attachment segments,Disorder
+gp8,evolved,253,L,3,12804,0.3985329341519955,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,254,D,1,15659,0.6543077598142457,Whole-chain activation with central peaks,Disorder
+gp8,evolved,254,D,2,7070,0.5498766713749741,Phage tail attachment segments,Disorder
+gp8,evolved,254,D,3,14110,0.35622460240170617,Proteolytic maturation domain hotspots,Post-translational modification
+gp8,evolved,255,S,1,15659,0.7384330104538123,Whole-chain activation with central peaks,Disorder
+gp8,evolved,255,S,2,7070,0.4659053536001464,Phage tail attachment segments,Disorder
+gp8,evolved,255,S,3,12467,0.42339211579755354,Subunit assembly interface belts,Interaction site
+gp8,evolved,256,V,1,15659,0.6823494947370442,Whole-chain activation with central peaks,Disorder
+gp8,evolved,256,V,2,7070,0.5254978972102446,Phage tail attachment segments,Disorder
+gp8,evolved,256,V,3,7411,0.4066746095106684,Short surface-exposed interfacial motifs,Ligand-binding site
+gp8,evolved,257,Y,1,15659,0.6324974858633805,Whole-chain activation with central peaks,Disorder
+gp8,evolved,257,Y,2,7070,0.4604878791486878,Phage tail attachment segments,Disorder
+gp8,evolved,257,Y,3,7411,0.4588681382727572,Short surface-exposed interfacial motifs,Ligand-binding site
+gp8,evolved,258,F,1,15659,0.6169187187556197,Whole-chain activation with central peaks,Disorder
+gp8,evolved,258,F,2,7070,0.5038279066489663,Phage tail attachment segments,Disorder
+gp8,evolved,258,F,3,7411,0.4632175990029313,Short surface-exposed interfacial motifs,Ligand-binding site
+gp8,evolved,259,P,1,15659,0.6543077598142457,Whole-chain activation with central peaks,Disorder
+gp8,evolved,259,P,2,7070,0.539041676094335,Phage tail attachment segments,Disorder
+gp8,evolved,259,P,3,7411,0.42842191316153877,Short surface-exposed interfacial motifs,Ligand-binding site
+gp8,evolved,260,D,1,15659,0.5826454769897168,Whole-chain activation with central peaks,Disorder
+gp8,evolved,260,D,2,7070,0.49028412776487595,Phage tail attachment segments,Disorder
+gp8,evolved,260,D,3,7411,0.443645025717148,Short surface-exposed interfacial motifs,Ligand-binding site
+gp8,evolved,261,A,1,15659,0.6075715043621341,Whole-chain activation with central peaks,Disorder
+gp8,evolved,261,A,2,7070,0.44965283749032675,Phage tail attachment segments,Disorder
+gp8,evolved,261,A,3,1587,0.3987767904602882,Beta-edge interaction loops,Interaction site
+gp8,evolved,262,A,1,15659,0.5764139701466124,Whole-chain activation with central peaks,Disorder
+gp8,evolved,262,A,2,1587,0.38614584157623655,Beta-edge interaction loops,Interaction site
+gp8,evolved,262,A,3,7070,0.3765165613738601,Phage tail attachment segments,Disorder
+gp8,evolved,263,L,1,15659,0.5203304544298444,Whole-chain activation with central peaks,Disorder
+gp8,evolved,263,L,2,1587,0.4691491622786518,Beta-edge interaction loops,Interaction site
+gp8,evolved,263,L,3,7070,0.39276907748367973,Phage tail attachment segments,Disorder
+gp8,evolved,264,P,1,15659,0.5514879427741951,Whole-chain activation with central peaks,Disorder
+gp8,evolved,264,P,2,1587,0.4204298240606552,Beta-edge interaction loops,Interaction site
+gp8,evolved,264,P,3,7070,0.34130276873963045,Phage tail attachment segments,Disorder
+gp8,evolved,265,G,1,7070,0.4415265794354169,Phage tail attachment segments,Disorder
+gp8,evolved,265,G,2,15659,0.4330894044975546,Whole-chain activation with central peaks,Disorder
+gp8,evolved,265,G,3,1587,0.4005811973098145,Beta-edge interaction loops,Interaction site
+gp8,evolved,266,N,1,15659,0.5078674407436357,Whole-chain activation with central peaks,Disorder
+gp8,evolved,266,N,2,12467,0.4169770891336887,Subunit assembly interface belts,Interaction site
+gp8,evolved,266,N,3,1587,0.3608839690424751,Beta-edge interaction loops,Interaction site
+gp8,evolved,267,K,1,15659,0.44866817160531547,Whole-chain activation with central peaks,Disorder
+gp8,evolved,267,K,2,7070,0.41443906804495806,Phage tail attachment segments,Disorder
+gp8,evolved,267,K,3,15164,0.3760440355486078,C2 beta-sandwich loop junctions,Uncategorized
+gp8,evolved,268,G,1,12467,0.4490522224530129,Subunit assembly interface belts,Interaction site
+gp8,evolved,268,G,2,7070,0.4361091049839583,Phage tail attachment segments,Disorder
+gp8,evolved,268,G,3,15164,0.4174089015374173,C2 beta-sandwich loop junctions,Uncategorized
+gp8,evolved,269,F,1,15164,0.4963781123915034,C2 beta-sandwich loop junctions,Uncategorized
+gp8,evolved,269,F,2,12467,0.37367560353033946,Subunit assembly interface belts,Interaction site
+gp8,evolved,269,F,3,15659,0.3661007747409395,Whole-chain activation with central peaks,Disorder
+gp8,evolved,270,R,1,12467,0.4298071424614184,Subunit assembly interface belts,Interaction site
+gp8,evolved,270,R,2,7070,0.37922529859958937,Phage tail attachment segments,Disorder
+gp8,evolved,270,R,3,15164,0.3309187602259496,C2 beta-sandwich loop junctions,Uncategorized
+gp8,evolved,271,Q,1,12467,0.3913169379804201,Subunit assembly interface belts,Interaction site
+gp8,evolved,271,Q,2,7734,0.3669878314469312,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,evolved,271,Q,3,4272,0.3210900022823663,Aromatic hydrophobic core tracts,Compositional bias
+gp8,evolved,272,I,1,12467,0.4971649891787131,Subunit assembly interface belts,Interaction site
+gp8,evolved,272,I,2,7734,0.3704176412291477,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,evolved,272,I,3,4272,0.3107322646359196,Aromatic hydrophobic core tracts,Compositional bias
+gp8,evolved,273,S,1,12467,0.4650898113615797,Subunit assembly interface belts,Interaction site
+gp8,evolved,273,S,2,7734,0.4235793973476513,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,evolved,273,S,3,4817,0.35602724195106056,Extracellular beta-sandwich domains,Domain
+gp8,evolved,274,I,1,1326,0.264474982957331,Buried hydrophobic core packing,Structural motif
+gp8,evolved,274,I,2,3703,0.18408535148196292,Organelle mature domain activator,Domain
+gp8,evolved,274,I,3,14134,0.18213204610934916,Ser/Thr-rich regulatory IDRs,Disorder
+gp8,evolved,275,I,1,7734,0.4493028440689099,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,evolved,275,I,2,12467,0.4169770891336887,Subunit assembly interface belts,Interaction site
+gp8,evolved,275,I,3,4272,0.3469843734469868,Aromatic hydrophobic core tracts,Compositional bias
+gp8,evolved,276,T,1,7734,0.4458730765018151,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,evolved,276,T,2,12467,0.40895827243050076,Subunit assembly interface belts,Interaction site
+gp8,evolved,276,T,3,4272,0.3521632422702101,Aromatic hydrophobic core tracts,Compositional bias
+gp8,evolved,277,N,1,12467,0.4843349358509834,Subunit assembly interface belts,Interaction site
+gp8,evolved,277,N,2,7734,0.377277218578459,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,evolved,277,N,3,15659,0.3380589939469699,Whole-chain activation with central peaks,Disorder
+gp8,evolved,278,P,1,12467,0.5228250958341725,Subunit assembly interface belts,Interaction site
+gp8,evolved,278,P,2,15659,0.4362051579191068,Whole-chain activation with central peaks,Disorder
+gp8,evolved,278,P,3,7734,0.4287241120209761,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,evolved,279,L,1,15659,0.5172147010082923,Whole-chain activation with central peaks,Disorder
+gp8,evolved,279,L,2,7734,0.38756660570998674,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+gp8,evolved,279,L,3,12467,0.33358167575673187,Subunit assembly interface belts,Interaction site
+gp8,evolved,280,E,1,15659,0.4891729202143227,Whole-chain activation with central peaks,Disorder
+gp8,evolved,280,E,2,12467,0.40895827243050076,Subunit assembly interface belts,Interaction site
+gp8,evolved,280,E,3,15513,0.38838500617521127,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,281,A,1,15659,0.5732982167250602,Whole-chain activation with central peaks,Disorder
+gp8,evolved,281,A,2,15513,0.3808435813065906,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,281,A,3,3509,0.31002974968133207,C-terminal helix-to-IDR transition,Disorder
+gp8,evolved,282,K,1,15659,0.5857612304112689,Whole-chain activation with central peaks,Disorder
+gp8,evolved,282,K,2,15513,0.38838500617521127,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,282,K,3,7819,0.3584957108669162,Phage and viral structural proteins,Interaction site
+gp8,evolved,283,A,1,15659,0.5764139701466124,Whole-chain activation with central peaks,Disorder
+gp8,evolved,283,A,2,15513,0.3714167483450303,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,283,A,3,3509,0.3115347427076598,C-terminal helix-to-IDR transition,Disorder
+gp8,evolved,284,H,1,15659,0.5701824633035081,Whole-chain activation with central peaks,Disorder
+gp8,evolved,284,H,2,15513,0.4355191363991565,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,284,H,3,7070,0.32505025262981074,Phage tail attachment segments,Disorder
+gp8,evolved,285,P,1,15659,0.5857612304112689,Whole-chain activation with central peaks,Disorder
+gp8,evolved,285,P,2,15513,0.4204362174942025,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,285,P,3,3038,0.3705820956064276,Extended structured domain surfaces,Domain
+gp8,evolved,286,N,1,15659,0.6075715043621341,Whole-chain activation with central peaks,Disorder
+gp8,evolved,286,N,2,15513,0.3940411267024612,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,286,N,3,7819,0.3110477501318234,Phage and viral structural proteins,Interaction site
+gp8,evolved,287,D,1,15659,0.5951084906759254,Whole-chain activation with central peaks,Disorder
+gp8,evolved,287,D,2,15513,0.40346792508016527,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,287,D,3,7819,0.3743116977786138,Phage and viral structural proteins,Interaction site
+gp8,evolved,288,P,1,15659,0.6449604995495891,Whole-chain activation with central peaks,Disorder
+gp8,evolved,288,P,2,15513,0.3996972126458549,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,288,P,3,7819,0.3611317162206362,Phage and viral structural proteins,Interaction site
+gp8,evolved,289,N,1,15659,0.623150225598724,Whole-chain activation with central peaks,Disorder
+gp8,evolved,289,N,2,15513,0.3959264656276883,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,289,N,3,7819,0.36903970967648503,Phage and viral structural proteins,Interaction site
+gp8,evolved,290,D,1,15659,0.6075715043621341,Whole-chain activation with central peaks,Disorder
+gp8,evolved,290,D,2,15513,0.4279776769466795,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,290,D,3,3038,0.4277707148837183,Extended structured domain surfaces,Domain
+gp8,evolved,291,P,1,15659,0.6169187187556197,Whole-chain activation with central peaks,Disorder
+gp8,evolved,291,P,2,15513,0.43363376289007316,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,291,P,3,3038,0.41175790532291634,Extended structured domain surfaces,Domain
+gp8,evolved,292,N,1,15659,0.6511920063926935,Whole-chain activation with central peaks,Disorder
+gp8,evolved,292,N,2,15513,0.4449459347768605,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,292,N,3,3038,0.40032016707931034,Extended structured domain surfaces,Domain
+gp8,evolved,293,V,1,15659,0.6480762529711414,Whole-chain activation with central peaks,Disorder
+gp8,evolved,293,V,2,15513,0.43928984883346683,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,293,V,3,3038,0.4163330006203588,Extended structured domain surfaces,Domain
+gp8,evolved,294,K,1,15659,0.6730022803435587,Whole-chain activation with central peaks,Disorder
+gp8,evolved,294,K,2,15513,0.45060205530411046,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,294,K,3,3038,0.4392084291470779,Extended structured domain surfaces,Domain
+gp8,evolved,295,A,1,15659,0.6543077598142457,Whole-chain activation with central peaks,Disorder
+gp8,evolved,295,A,2,15513,0.4656849396252081,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,295,A,3,3038,0.4300582385521931,Extended structured domain surfaces,Domain
+gp8,evolved,296,E,1,15659,0.6761179878939398,Whole-chain activation with central peaks,Disorder
+gp8,evolved,296,E,2,15513,0.48642394447355575,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,296,E,3,3038,0.42319561958627594,Extended structured domain surfaces,Domain
+gp8,evolved,297,K,1,15659,0.6667707735004543,Whole-chain activation with central peaks,Disorder
+gp8,evolved,297,K,2,15513,0.4637996006999811,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,297,K,3,3038,0.4552212387078799,Extended structured domain surfaces,Domain
+gp8,evolved,298,D,1,15659,0.6449604995495891,Whole-chain activation with central peaks,Disorder
+gp8,evolved,298,D,2,15513,0.4713410601524581,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,298,D,3,3038,0.4689464766397142,Extended structured domain surfaces,Domain
+gp8,evolved,299,Y,1,15659,0.6667707735004543,Whole-chain activation with central peaks,Disorder
+gp8,evolved,299,Y,2,15513,0.48076785853016213,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,299,Y,3,3038,0.4506461434104375,Extended structured domain surfaces,Domain
+gp8,evolved,300,Y,1,15659,0.6916967550017007,Whole-chain activation with central peaks,Disorder
+gp8,evolved,300,Y,2,15513,0.48265323203924543,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,300,Y,3,3038,0.46208385767379706,Extended structured domain surfaces,Domain
+gp8,evolved,301,D,1,15659,0.6916967550017007,Whole-chain activation with central peaks,Disorder
+gp8,evolved,301,D,2,3038,0.5009720957613182,Extended structured domain surfaces,Domain
+gp8,evolved,301,D,3,15513,0.4977361509441994,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,302,P,1,15659,0.6698865269220066,Whole-chain activation with central peaks,Disorder
+gp8,evolved,302,P,2,15513,0.4901946914917224,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,302,P,3,3038,0.48724685782948385,Extended structured domain surfaces,Domain
+gp8,evolved,303,E,1,15659,0.6667707735004543,Whole-chain activation with central peaks,Disorder
+gp8,evolved,303,E,2,3038,0.47809666723459904,Extended structured domain surfaces,Domain
+gp8,evolved,303,E,3,15513,0.4675703131342915,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,304,D,1,15659,0.6543077598142457,Whole-chain activation with central peaks,Disorder
+gp8,evolved,304,D,2,3038,0.510122286356203,Extended structured domain surfaces,Domain
+gp8,evolved,304,D,3,15513,0.48076785853016213,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,305,L,1,15659,0.6387289927064849,Whole-chain activation with central peaks,Disorder
+gp8,evolved,305,L,2,3038,0.4849592862005162,Extended structured domain surfaces,Domain
+gp8,evolved,305,L,3,15513,0.47511177258676845,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,306,M,1,15659,0.6511920063926935,Whole-chain activation with central peaks,Disorder
+gp8,evolved,306,M,2,3038,0.49182190516643337,Extended structured domain surfaces,Domain
+gp8,evolved,306,M,3,15513,0.4713410601524581,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,307,R,1,15659,0.6574235132357978,Whole-chain activation with central peaks,Disorder
+gp8,evolved,307,R,2,3038,0.5032596673902858,Extended structured domain surfaces,Domain
+gp8,evolved,307,R,3,15513,0.47511177258676845,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,308,H,1,15659,0.6543077598142457,Whole-chain activation with central peaks,Disorder
+gp8,evolved,308,H,2,3038,0.5032596673902858,Extended structured domain surfaces,Domain
+gp8,evolved,308,H,3,15513,0.4788824850210788,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,309,S,1,15659,0.6324974858633805,Whole-chain activation with central peaks,Disorder
+gp8,evolved,309,S,2,3038,0.5146973816536454,Extended structured domain surfaces,Domain
+gp8,evolved,309,S,3,15513,0.4637996006999811,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,310,G,1,15659,0.6387289927064849,Whole-chain activation with central peaks,Disorder
+gp8,evolved,310,G,2,3038,0.5307101912144474,Extended structured domain surfaces,Domain
+gp8,evolved,310,G,3,15513,0.4901946914917224,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,311,E,1,15659,0.6200344721771718,Whole-chain activation with central peaks,Disorder
+gp8,evolved,311,E,2,3038,0.47123404826868187,Extended structured domain surfaces,Domain
+gp8,evolved,311,E,3,15513,0.45814348017273115,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,312,M,1,15659,0.6075715043621341,Whole-chain activation with central peaks,Disorder
+gp8,evolved,312,M,2,3038,0.49868457209284345,Extended structured domain surfaces,Domain
+gp8,evolved,312,M,3,15513,0.4524873942293375,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,313,I,1,15659,0.5514879427741951,Whole-chain activation with central peaks,Disorder
+gp8,evolved,313,I,2,15513,0.42232159100328587,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,313,I,3,3038,0.41404542899139113,Extended structured domain surfaces,Domain
+gp8,evolved,314,Y,1,15659,0.5888769838328212,Whole-chain activation with central peaks,Disorder
+gp8,evolved,314,Y,2,15513,0.48076785853016213,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,314,Y,3,3038,0.4758091435661243,Extended structured domain surfaces,Domain
+gp8,evolved,315,M,1,15659,0.5919927372543733,Whole-chain activation with central peaks,Disorder
+gp8,evolved,315,M,2,3038,0.5215600006195626,Extended structured domain surfaces,Domain
+gp8,evolved,315,M,3,15513,0.4788824850210788,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,316,E,1,15659,0.5701824633035081,Whole-chain activation with central peaks,Disorder
+gp8,evolved,316,E,2,3038,0.5009720957613182,Extended structured domain surfaces,Domain
+gp8,evolved,316,E,3,15513,0.4977361509441994,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,317,N,1,15659,0.6013399975190298,Whole-chain activation with central peaks,Disorder
+gp8,evolved,317,N,2,3038,0.5307101912144474,Extended structured domain surfaces,Domain
+gp8,evolved,317,N,3,15513,0.4939654039260328,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,318,R,1,15659,0.5639509564604037,Whole-chain activation with central peaks,Disorder
+gp8,evolved,318,R,2,3038,0.5444354291462817,Extended structured domain surfaces,Domain
+gp8,evolved,318,R,3,15513,0.4977361509441994,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,319,P,1,15659,0.5919927372543733,Whole-chain activation with central peaks,Disorder
+gp8,evolved,319,P,2,3038,0.5238475242880374,Extended structured domain surfaces,Domain
+gp8,evolved,319,P,3,15513,0.5165897822834637,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,320,P,1,15659,0.5919927372543733,Whole-chain activation with central peaks,Disorder
+gp8,evolved,320,P,2,15513,0.535443413622728,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,320,P,3,3038,0.526135095917005,Extended structured domain surfaces,Domain
+gp8,evolved,321,I,1,15659,0.6106872119125153,Whole-chain activation with central peaks,Disorder
+gp8,evolved,321,I,2,3038,0.526135095917005,Extended structured domain surfaces,Domain
+gp8,evolved,321,I,3,15513,0.5241312417359407,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,322,I,1,15659,0.5795297235681646,Whole-chain activation with central peaks,Disorder
+gp8,evolved,322,I,2,15513,0.535443413622728,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,322,I,3,3038,0.5055471910587607,Extended structured domain surfaces,Domain
+gp8,evolved,323,M,1,15659,0.567066709881956,Whole-chain activation with central peaks,Disorder
+gp8,evolved,323,M,2,3038,0.5444354291462817,Extended structured domain surfaces,Domain
+gp8,evolved,323,M,3,15513,0.5392141606408947,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,324,A,1,3038,0.5535856197411666,Extended structured domain surfaces,Domain
+gp8,evolved,324,A,2,15659,0.5452564359310907,Whole-chain activation with central peaks,Disorder
+gp8,evolved,324,A,3,15513,0.5392141606408947,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,325,M,1,15659,0.5577194496172994,Whole-chain activation with central peaks,Disorder
+gp8,evolved,325,M,2,15513,0.5467556200933716,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,325,M,3,3038,0.5146973816536454,Extended structured domain surfaces,Domain
+gp8,evolved,326,D,1,3038,0.5856112388627706,Extended structured domain surfaces,Domain
+gp8,evolved,326,D,2,15513,0.535443413622728,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,326,D,3,15659,0.5296777146945009,Whole-chain activation with central peaks,Disorder
+gp8,evolved,327,Q,1,3038,0.5535856197411666,Extended structured domain surfaces,Domain
+gp8,evolved,327,Q,2,15659,0.5359092215376052,Whole-chain activation with central peaks,Disorder
+gp8,evolved,327,Q,3,15513,0.5241312417359407,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,328,T,1,15659,0.6106872119125153,Whole-chain activation with central peaks,Disorder
+gp8,evolved,328,T,2,3038,0.5810361435653282,Extended structured domain surfaces,Domain
+gp8,evolved,328,T,3,15513,0.5128190698491534,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,329,E,1,15659,0.6200344721771718,Whole-chain activation with central peaks,Disorder
+gp8,evolved,329,E,2,3038,0.5604482387070837,Extended structured domain surfaces,Domain
+gp8,evolved,329,E,3,15513,0.4977361509441994,Catalytic/interface βαβ module,Structural motif
+gp8,evolved,330,E,1,15659,0.6698865269220066,Whole-chain activation with central peaks,Disorder
+gp8,evolved,330,E,2,3038,0.5627358103360514,Extended structured domain surfaces,Domain
+gp8,evolved,330,E,3,12804,0.48300459666281265,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,331,I,1,15659,0.5857612304112689,Whole-chain activation with central peaks,Disorder
+gp8,evolved,331,I,2,3038,0.5055471910587607,Extended structured domain surfaces,Domain
+gp8,evolved,331,I,3,12804,0.48083862146004075,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,332,N,1,15659,0.6761179878939398,Whole-chain activation with central peaks,Disorder
+gp8,evolved,332,N,2,3038,0.49868457209284345,Extended structured domain surfaces,Domain
+gp8,evolved,332,N,3,12804,0.4938342733461577,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,333,I,1,15659,0.5857612304112689,Whole-chain activation with central peaks,Disorder
+gp8,evolved,333,I,2,3038,0.5032596673902858,Extended structured domain surfaces,Domain
+gp8,evolved,333,I,3,12804,0.4786726960898975,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,334,L,1,15659,0.7010440152663572,Whole-chain activation with central peaks,Disorder
+gp8,evolved,334,L,2,12804,0.5089958506024179,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,334,L,3,3038,0.49182190516643337,Extended structured domain surfaces,Domain
+gp8,evolved,335,F,1,15659,0.6885810015801486,Whole-chain activation with central peaks,Disorder
+gp8,evolved,335,F,2,12804,0.5198255771183916,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,335,F,3,3038,0.4483585717814699,Extended structured domain surfaces,Domain
+gp8,evolved,336,T,1,15659,0.6636550200789022,Whole-chain activation with central peaks,Disorder
+gp8,evolved,336,T,2,12804,0.4786726960898975,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,336,T,3,3038,0.47809666723459904,Extended structured domain surfaces,Domain
+gp8,evolved,337,F,1,15659,0.641844746128037,Whole-chain activation with central peaks,Disorder
+gp8,evolved,337,F,2,12804,0.47650677071975417,Cysteine-rich LU/CRD domains,Domain
+gp8,evolved,337,F,3,7819,0.3901276620850001,Phage and viral structural proteins,Interaction site

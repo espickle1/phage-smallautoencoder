@@ -1,0 +1,81 @@
+feature_id,label,category
+504,ICA-adjacent trimeric beta-solenoid,Domain
+576,Spike/adhesin assembly modules,Domain
+1297,Viral fiber/spike beta repeats,Uncategorized
+1326,Buried hydrophobic core packing,Structural motif
+1587,Beta-edge interaction loops,Interaction site
+2014,Disordered N-terminal assembly/export tail,Post-translational modification
+2145,Domain-boundary capping motifs,Compositional bias
+2968,Flexible C-terminal enzyme tails,Disorder
+3038,Extended structured domain surfaces,Domain
+3107,CTLD/Link hydrophobic ligand patch,Ligand-binding site
+3390,Trp-rich polymer-binding modules,Ligand-binding site
+3509,C-terminal helix-to-IDR transition,Disorder
+3703,Organelle mature domain activator,Domain
+4021,Extracellular glycan recognition modules,Domain
+4025,Extracellular Cys–Trp disulfide-loop motif,Sequence motif
+4272,Aromatic hydrophobic core tracts,Compositional bias
+4369,Beta-solenoid spikes and FG repeats,Uncategorized
+4817,Extracellular beta-sandwich domains,Domain
+4965,Regulatory all-alpha helical cores,Domain
+5059,Focal activation on structured segments,Disorder
+5127,Nucleic acid beta-strand hotspots,Ligand-binding site
+5261,Terminal disulfide beta-strand,Structural motif
+5656,Polar catalytic microenvironments,Catalytic function
+5749,Aromatic-flanked Gly/Pro NIDO loops,Structural motif
+5755,Surface-exposed ligand-binding regions,Ligand-binding site
+6332,Extracatalytic beta-sheet regional activation,Compositional bias
+6526,C-terminal IDLSxG calcium-cap motif,Compositional bias
+6809,Extracytoplasmic trimeric coiled-coil stalks,Structural motif
+6811,Fibrillar adhesin stalk regions,Disorder
+7070,Phage tail attachment segments,Disorder
+7212,Extracellular appendage stalks and boundaries,Disorder
+7284,Gly/aromatic strand-coil transition motifs,Structural motif
+7411,Short surface-exposed interfacial motifs,Ligand-binding site
+7433,Extracellular coiled-coil stalks,Structural motif
+7453,N-terminal assembly leader,Compositional bias
+7594,Transmembrane metal-transport residues,Ligand-binding site
+7734,Autoproteolysis and protease-sensitive linkers,Post-translational modification
+7744,C-terminal beta-solenoid repeats,Structural motif
+7756,Glycine-rich extracellular attachment regions,Compositional bias
+7819,Phage and viral structural proteins,Interaction site
+7915,SET/PR AdoMet-binding fold,Domain
+8521,Extracellular ectodomains and IDRs,Uncategorized
+8982,Conserved anchors in repeats,Uncategorized
+9159,Extracellular beta-solenoid repeats,Domain
+9338,Surface loops with cysteine hotspots,Disorder
+9634,Viral capsid structural proteins,Disorder
+9652,Trimeric viral fiber appendages,Domain
+9839,Beta-repeat register hotspots,Structural motif
+9903,Extended assembly interface regions,Interaction site
+10240,Polar loop hotspots; S/T-rich disorder,Compositional bias
+10592,Edge coil-to-beta transitions,Structural motif
+10835,His/Cys coordination/catalytic motifs; disordered tails,Ligand-binding site
+10881,Bacterial extracellular surface segments,Disorder
+11088,N-terminal assembly/attachment segment,Disorder
+11116,Beta-rich receptor-binding head,Domain
+11196,Surface-exposed strand-edge residues,Structural motif
+11471,Small residue-rich low-complexity tracts,Disorder
+11942,Polar beta-loop adhesion sites,Ligand-binding site
+12275,Extracellular Cys-rich ectodomains,Post-translational modification
+12467,Subunit assembly interface belts,Interaction site
+12486,Extracellular disulfide-bonded repeats,Domain
+12804,Cysteine-rich LU/CRD domains,Domain
+12856,EGF C2–C3 loop motif,Structural motif
+13124,C-terminal capping/recognition segment,Interaction site
+13260,Phage tail fiber distal motifs,Compositional bias
+14110,Proteolytic maturation domain hotspots,Post-translational modification
+14133,TFIIB-family conserved linker peak,Interaction site
+14134,Ser/Thr-rich regulatory IDRs,Disorder
+14198,Coiled-coil hinge interruptions,Disorder
+14441,Solvent exposed assembly segments,Domain
+14472,Conserved glycine beta-sheet site,Structural motif
+14938,Small/polar beta-strand repeats,Domain
+15023,Active-site loop/turn scaffolds,Structural motif
+15164,C2 beta-sandwich loop junctions,Uncategorized
+15513,Catalytic/interface βαβ module,Structural motif
+15619,Extracellular receptor-binding heads,Interaction site
+15659,Whole-chain activation with central peaks,Disorder
+15700,Disulfide-clamped glycan-binding beta-strand,Ligand-binding site
+15988,Structural small-polar patches,Domain
+16057,C-terminal capsid interfacial strands,Structural motif
