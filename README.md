@@ -1,5 +1,7 @@
 # phage-smallautoencoder
 
+**[Download the results report (.pptx)](https://github.com/espickle1/phage-smallautoencoder/blob/main/manuscript/slides/hp3_tcf_gp8_report.pptx)**
+
 ESMC sparse-autoencoder (SAE) feature analysis of two structural proteins from
 *Escherichia* phage HP3 (NC_041919.1): the baseplate wedge subunit **gp8**
 (YP_010228805.1 / evolved variant URQ01383.1) and the **tail collar fiber**
