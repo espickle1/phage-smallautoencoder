@@ -1,6 +1,8 @@
 # phage-smallautoencoder
 
-**[Download the results report (.pptx)](https://github.com/espickle1/phage-smallautoencoder/blob/main/manuscript/slides/hp3_tcf_gp8_report.pptx)**
+**[Download the results report (.pptx)](https://github.com/espickle1/phage-smallautoencoder/blob/main/manuscript/slides/hp3_tcf_gp8_report_v4.pptx)**
+— *Predicting Residue Functions in Evolved Phage Host Interaction Proteins with
+ESMC Sparse Autoencoder*, 10 slides (v4, August 2026).
 
 ESMC sparse-autoencoder (SAE) feature analysis of two structural proteins from
 *Escherichia* phage HP3 (NC_041919.1): the baseplate wedge subunit **gp8**
@@ -45,8 +47,14 @@ Per `data/hp3_to_hp3e.txt` and `data/gp8_alignment.csv`:
 - `analysis/` — derived outputs: per-residue feature tables and clusters
   (`features/`), rendered figures (`figures/`), and structure-derived contact
   data (`structures/`).
-- `manuscript/slides/` — generated `.pptx` report decks and the Baylor logo
-  asset used in their title slides.
+- `manuscript/slides/` — `.pptx` report decks and the Baylor logo asset used in
+  their title slides. `hp3_tcf_gp8_report_v4.pptx` is the current deck and the
+  human-reviewed final: a hand-revised 10-slide cut of the generated report
+  (retitled, with the "TCF head domain" and "Synthesis" slides dropped).
+  `hp3_tcf_gp8_report.pptx` and `hp3_tcf_gp8_report_4x3.pptx` are the 12-slide
+  16:9 and 4:3 decks written by `src/make_hp3_tcf_gp8_report.py`; `_v2.pptx` is
+  the previous revision, identical to v4 in text and differing only in
+  formatting.
 
 ## Reproducing
 
@@ -58,6 +66,12 @@ python src/make_hp3_tcf_gp8_report.py            # 16:9 deck
 ASPECT=4:3 python src/make_hp3_tcf_gp8_report.py # 4:3 deck
 python src/make_hp3_dpn_slides.py
 ```
+
+Note that `make_hp3_tcf_gp8_report.py` writes the 12-slide
+`hp3_tcf_gp8_report.pptx` (or `_4x3.pptx`) and overwrites it in place. It does
+not produce `_v4.pptx`, which was hand-edited from that output and is frozen as
+the human-reviewed final. Re-running the script is therefore safe — it will not
+touch v4. The next scripted revision will be generated as v5.
 
 Dependencies: `esm` (Biohub/ESMC client), `torch`, `numpy`, `pandas`,
 `scipy`, `scikit-learn`, `gemmi`, `matplotlib`, `adjustText`, `Pillow`,
